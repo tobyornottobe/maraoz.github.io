@@ -1,0 +1,13 @@
+# Site settings
+title: Manuel Araoz
+email: hi@maraoz.com
+description: > # this means to ignore newlines until "baseurl:"
+  Manuel Araoz personal website.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://maraoz.com" # the base hostname & protocol for your site
+twitter_username: maraoz
+github_username: maraoz
+permalink: pretty
+
+# Build settings
+markdown: kramdown

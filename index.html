@@ -1,0 +1,61 @@
+---
+layout: landing
+---
+
+<div class="home">
+
+  <h1>Bio</h1>
+  <p>
+  I studied Computer Science and Engineering at <a href="http://itba.edu.ar/en">Instituto Tecnológico de Buenos Aires</a>, in Argentina. I'm currently located in Buenos Aires, Argentina.
+  </p>
+  <p>
+  My work is mostly about cryptocurrencies, distributed systems, machine learning, interactivity, and robotics. One of my goals is to bring new experiences to people through technology.
+  <p>
+  </p>
+  I'm currently CTO and cofounder at <a href="https://smartcontractsolutions.com/">Smart Contract Solutions</a>.
+  </p>
+  <h1>Latest posts from my personal blog</h1>
+  <ul class="post-list">
+    {% for post in site.posts limit:3 %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+      <h2>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+    </li>
+    {% endfor %}
+    <a href="/blog">See more</a>
+  </ul>
+  <h1>Projects</h1>
+  <h2>Bitcoin & Blockchain</h2>
+  <ul>
+    <li><a href="https://proofofexistence.com/">Proof of Existence</a>, a web service to anonymously and securely store an online distributed proof of existence for any document. It uses the bitcoin blockchain as a sort of digital notary.</li>
+    <li><a href="https://streamium.io">Streamium</a>, a p2p livestreaming application using bitcoin's Payment Channels smart contract for micropayments.</li>
+    <li><a href="https://github.com/bitpay/bitcore-lib">Bitcore</a>, a popular JavaScript Bitcoin library I helped create while working at BitPay. </li>
+    <li><a href="https://maraoz.com/multipaper/">MultiPaper</a>, a Multi-signature address (P2SH) paper wallet using bitcore.</li>
+    <li><a href="https://decentraland.org/">Decentraland</a>, a blockchain-based virtual reality world.</li>
+  </ul>
+  <h2>Gamedev</h2>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=qok3yKZuAgs">ComboCombat</a>, a multiplayer wizard combat game.
+      <li><a href="https://www.youtube.com/watch?v=o5z2vPKuAa4">Singular Journey</a> [Oculus Rift], a VR exploration puzzle game that lets you explore alternative physics. Collaboration with <a href="https://twitter.com/mmerchante">Mariano Merchante</a>.</li>
+      <li><a href="">SpaceExplorer</a> [Oculus Rift], a VR space exploration game.</li>
+  </ul>
+
+  <h1>Miscellaneous interests</h1>
+  <ul>
+    <li><strong>Indie games</strong>, especially <a href="http://braid-game.com/">Braid</a>, a game about time and causation that showed me that videogames can be as deep and enjoyable as books, music or art. Other games I enjoyed a lot are <a href="https://osu.ppy.sh/">osu!</a>, <a href="http://www.ludomancy.com/games/today.php">Today I Die</a>, <a href="http://undertale.com/">Undertale</a> and <a href="http://the-witness.net/">The Witness</a>.</li>
+    <li><strong>eSports</strong>, or competitive play of videogames. I once trained and played in Starcraft II and League of Legends tournaments. Valuable resources for learning were Sean Plott's <a href="http://day9.tv/">Day[9] TV</a> and Shaun Clark's <a href="https://www.youtube.com/playlist?list=PLD12CD54C740200A4">Terran Tutorials</a>.</li>
+    <li><strong>Creative Coding</strong>, or making art via code. I've seen some mind-bending examples like <a href="https://vimeo.com/118919656">this fantastic video</a> from FITC Tokyo 2015, or the paintings of <a href="https://github.com/andersbll/neural_artistic_style">StyleNet</a>.</li>
+    <li><strong>Educational Videos on YouTube</strong>. My favorite channels are <a href="https://www.youtube.com/user/Kurzgesagt">Kurzgesagt</a>, <a href="https://www.youtube.com/user/Vsauce">Vsauce</a>, <a href="https://www.youtube.com/user/Vihart">Vi Hart</a> and <a href="https://www.youtube.com/channel/UCo8bcnLyZH8tBIH9V1mLgqQ">theodds1sout</a>.</li>
+    <li><strong>Music</strong>. I play, albeit mediocrely, guitar, bass, keyboard, trumpet, flute and <a href="http://studio.substack.net/sin-sin">algorithms</a>! I've recently ventured into EDM production. You can find my tunes in <a href="https://soundcloud.com/maraoz">my soundcloud profile</a>.</li>
+  </ul>
+
+  <h1>Credit</h1>
+  <div>Icons made by <a href="http://www.flaticon.com/authors/icomoon" title="Icomoon">Icomoon</a>, <a href="http://www.flaticon.com/authors/alessio-atzeni" title="Alessio Atzeni">Alessio Atzeni</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>, licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>.</div>
+  <div>Theme inspired by <a href="https://www.flickr.com/photos/enhues/7735149256/in/photostream/">Nick Hughes' photo</a>, licensed by <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>.</div>
+
+</div>
+
+

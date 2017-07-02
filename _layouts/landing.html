@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="cover">
+      <canvas id="coverCanvas" height="100"> </canvas>
+      <div class="wrapper">
+        <img width="250" height="250" class="avatar">
+        </img>
+        <div class="coverCard">
+          <h1 class="name">Manuel Araoz</h1>
+          <div style="padding-bottom: 64px;">
+            <a href="https://github.com/maraoz">
+              <img src="/img/github.png" width="64" alt="GitHub"></img>
+            </a>
+            <a href="https://twitter.com/maraoz">
+              <img src="/img/twitter.png" width="64" alt="Twitter"></img>
+            </a>
+            <a href="mailto:{{site.email}}">
+              <img src="/img/email.png" width="64" alt="Email"></img>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+    {% include analytics.html %}
+
+    <script src="{{ "/js/chain.js" | prepend: site.baseurl}}"></script>
+  </body>
+
+</html>
