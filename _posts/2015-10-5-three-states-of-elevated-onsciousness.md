@@ -24,7 +24,7 @@ Those precious times where you can focus completely on the task at hand. You fee
 A rare and liberating feeling that the future and the past don’t exist. I have mostly experienced this in close contact with nature or loved ones. A sudden bliss, the intense feeling of being alive, and blankness of mind are some of the symptoms. The joy of knowing that a moment is perfect and how it fills your whole mind. No place for worries, memories, plans, or even thoughts. It’s as if your consciousness stepped outside of time for a moment, and you just hanged there. Quiet. Smiling. Present.
 
 . . .
-{: style="color:gray; font-size: 120%; text-align: center;"}
+{: style="color:gray; font-size: 200%; text-align: center;"}
 
 I find these moments something to look for. They are signs that I’m on the right track. They show I’m learning, I’m giving my full, and in contact with my experiences. I use them as a compass to know if I’m living life to the fullest. If it’s been long since I’ve reached one of my three states of elevated consciousness, I ask myself what may be going wrong.
 
