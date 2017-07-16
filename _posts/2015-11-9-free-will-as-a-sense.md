@@ -5,9 +5,9 @@ date:   2015-11-9 15:10:00
 comments: true
 ---
 
-<img class="freewill" src="/img/freewill/ocean.jpeg">
+<img class="freewill" src="/img/freewill/1.jpeg">
 
-### In this post I explore the possibility of free will being a sense, just like sight, smell, and touch.
+**In this post I explore the possibility of free will being a sense, just like sight, smell, and touch.**
 
 Senses evolved to help organisms gather information about the physical world to better survive. There’s nothing fundamental about them, and many organisms have very different senses that determine their [umwelt](https://en.wikipedia.org/wiki/Umwelt). Living beings use senses to measure their surroundings which make them more apt to reproduce.
 
