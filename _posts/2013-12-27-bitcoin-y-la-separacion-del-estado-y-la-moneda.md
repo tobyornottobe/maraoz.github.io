@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Bitcoin y la separacion del estado y la moneda"
+title:  "Bitcoin y la separación del Estado y la moneda"
 date:   2013-12-27 15:10:00
 comments: true
 ---
 
 <img class="banco" src="/img/separacion/1.jpeg">
 
+<br/>
 Por casi mil años los reyes gobernaron por derecho divino. Dios elegía a la realeza, y por ende tenían el poder de ejercer su voluntad sobre el resto de los creyentes.
 
 Lo interesante es que durante el período en que éste era el paradigma predominante (el medioevo), el acceso al conocimiento era algo reservado sólo para los poderosos. La gran mayoría de los monjes copistas no sabían leer ni escribir, tan sólo copiaban los símbolos que veían. Por esto, el acceso al contenido y por ende la interpretación de lo escrito, quedaba en manos de los sacerdotes, obispos, y nobles literatos.
