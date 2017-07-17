@@ -4,9 +4,9 @@ title:  "Ahorrar en bitcoins"
 date:   2014-1-23 15:10:00
 comments: true
 ---
-
 <img class="btc" src="/img/ahorrar/1.jpeg">
 
+<br/>
 ¿Para qué ahorrar? Hoy en día lo más lógico parecería ser gastar nuestros pesos lo antes posible, antes que nos los “coma” la inflación. Sin embargo, sabemos que las ventajas teóricas de ahorrar son varias: nos permite tener mayor comodidad financiera en el futuro, nos deja mejor parados ante un imprevisto (enfermedad, robo, etc.), y nos da espacio para planear a futuro en grande (ya sea que soñemos con una moto, una casa, un viaje a China, o un proyecto en pareja).
 
 El problema es que en un país como Argentina, donde la moneda se devalúa en caída libre contra el valor de reserva (dólar), y donde [los precios sufren una inflación anual del 27%](http://www.economist.com/category/print-sections/economic-and-financial-indicators), conservar pesos abajo del colchón nos da una sensación de que se nos esfuma la plata de las manos con el correr del tiempo. Y eso es exactamente lo que ocurre:
@@ -45,7 +45,7 @@ Claramente es una moneda con mucha volatilidad (grandes variaciones de precios a
 Evolución del precio de 1 bitcoin en los últimos 4 años.
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-Como ven, el precio sufre los efectos de “burbujas”, en los cuales el valor asciende a un valor máximo histórico, y luego colapsa para estabilizarse en un precio mayor al anterior a la burbuja. Este es un comportamiento [que se observa en otros mercados de tecnologías disruptivas](http://www-bcf.usc.edu/~tellis/radical.pdf) y representan las olas de adopción. De todas formas, un buen consejo es “no inviertas más de lo que estás dispuesto a perder”. Yo le recomendaría a cualquiera pasar el 10% de sus ahorros a bitcoins.
+Como ven, el precio sufre los efectos de “burbujas”, en los cuales el valor asciende a un valor máximo histórico, y luego colapsa para estabilizarse en un precio mayor al anterior a la burbuja. Este es un comportamiento que [se observa en otros mercados de tecnologías disruptivas](http://www-bcf.usc.edu/~tellis/radical.pdf) y representan las olas de adopción. De todas formas, un buen consejo es “no inviertas más de lo que estás dispuesto a perder”. Yo le recomendaría a cualquiera pasar el 10% de sus ahorros a bitcoins.
 
 Sin embargo, lo interesante de bitcoin no es su performance como inversión sino el porqué del aumento de su valor. Bitcoin, a diferencia del peso, no tiene Banco Central. No hay nadie que pueda tomar una política monetaria con bitcoin. Su emisión está estrictamente pautada por un consenso global de todos los nodos que operan la red (computadoras como las que tenés en tu casa). Y estas reglas dicen que en toda la historia va a haber un máximo de 21 millones de bitcoins. Por eso, es la primer moneda intrínsecamente deflacionaria. Y es la primer moneda que democratiza (palabra tan trillada por estos pagos) el sistema financiero. Como Internet hizo de la información un commodity, bitcoin devuelve la economía a las manos del pueblo. Pero eso ya es tema para otra vez.
 
