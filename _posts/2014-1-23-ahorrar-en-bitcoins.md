@@ -13,7 +13,7 @@ El problema es que en un país como Argentina, donde la moneda se devalúa en ca
 
 <img src="/img/ahorrar/2.png">
 Valor de un peso en dólares (cuántos dólares puedo comprar con 1 peso) a valor oficial en los últimos 10 años. Fuente: [xe.com](xe.com)
-{: style="color:gray; font-size: 100%; text-align: center;"}
+{: style="color:gray; font-size: 80%; text-align: center;"}
 
 En este gráfico vemos cómo bajó el poder de compra de 1 peso en relación al dólar a través de los años. Esto quiere decir que si en el año 2004 teníamos 1000 pesos, esto equivalía más o menos a 345 USD. Si ahorramos esos pesos durante 10 años, hoy tenemos la espectacular suma de 144 dólares!!! Efectivamente, perdimos más de la mitad de nuestro dinero. Y esto ni siquiera tiene en cuenta que el dólar también sufre una depreciación de valor.
 
@@ -28,19 +28,19 @@ Primero, no tiene riesgo de contraparte. Esto es algo que los argentinos conocem
 
 Además, bitcoin es divisible hasta el cien-millonésimo. El valor más pequeño de subdivisión de bitcoin actualmente es 0.00000001 bitcoins. Esto quiere decir que podemos canjear la cantidad que se nos ocurra de pesos por bitcoins. Por ejemplo, al precio de hoy, [500 pesos equivalen a 0.05042401 bitcoins](http://www.mercado-bitcoin.com.ar/calculator/coinbase/ars/500).
 
-Otra ventaja es que podemos gastar los bitcoins en todo el mundo. Al ser una moneda digital y descentralizada, no conoce de limites políticos. Bitcoin es una red que permite transferir instantáneamente, sin riesgo de contraparte, y por un costo fijo muy bajo, cualquier cantidad de dinero a cualquier parte del mundo. Intenten enviar pesos o dólares a una cuenta en China y vean como tarda 4 días y nos cobran 10% de comisión. Ni hablar de mandar a Perú o Paraguay (las comisiones llegan al 100% con Western Union). Con bitcoin podemos hacer esto de forma instantánea y pagando centavos de dólar sin importar el monto enviado.
+Otra ventaja es que podemos gastar los bitcoins en todo el mundo. Al ser una moneda digital y descentralizada, no conoce de limites políticos. Bitcoin es una red que permite transferir instantáneamente, sin riesgo de contraparte, y por un costo fijo muy bajo, cualquier cantidad de dinero a cualquier parte del mundo. Intenten enviar pesos o dólares a una cuenta en China y vean como tarda 4 días y nos cobran 10% de comisión. Ni hablar de mandar a Perú o Paraguay (las comisiones llegan al 80% con Western Union). Con bitcoin podemos hacer esto de forma instantánea y pagando centavos de dólar sin importar el monto enviado.
 
 Por último, y muy importante al considerar ahorrar: bitcoin tiende a aumentar su valor. Acá hay una tabla con el valor de 1 bitcoin a lo largo de los últimos 5 años.
 
 <img src="/img/ahorrar/3.png">
 Precio de 1 bitcoin a principios de cada año. Fuente: [bitcoincharts.com](http://bitcoincharts.com/)
-{: style="color:gray; font-size: 100%; text-align: center;"}
+{: style="color:gray; font-size: 80%; text-align: center;"}
 
 Claramente es una moneda con mucha volatilidad (grandes variaciones de precios a corto plazo). Esto genera bastante incertidumbre con respecto al valor que pueden tener nuestros ahorros convertidos a bitcoin. Pero es una incertidumbre que prefiero asumir, contra la *total certidumbre* de que el peso va a perder el 27% de su valor año a año!! De todas formas veamos la evolución del precio en los últimos cuatro años:
 
 <img src="/img/ahorrar/4.png">
 Evolución del precio de 1 bitcoin en los últimos 4 años.
-{: style="color:gray; font-size: 100%; text-align: center;"}
+{: style="color:gray; font-size: 80%; text-align: center;"}
 
 Como ven, el precio sufre los efectos de “burbujas”, en los cuales el valor asciende a un valor máximo histórico, y luego colapsa para estabilizarse en un precio mayor al anterior a la burbuja. Este es un comportamiento [que se observa en otros mercados de tecnologías disruptivas](http://www-bcf.usc.edu/~tellis/radical.pdf) y representan las olas de adopción. De todas formas, un buen consejo es “no inviertas más de lo que estás dispuesto a perder”. Yo le recomendaría a cualquiera pasar el 10% de sus ahorros a bitcoins.
 
@@ -50,7 +50,7 @@ Resumiendo las diferencias en una tabla:
 
 <img src="/img/ahorrar/5.png">
 Comparando bitcoin con el peso argentino.
-{: style="color:gray; font-size: 100%; text-align: center;"}
+{: style="color:gray; font-size: 80%; text-align: center;"}
 
 . . .
 {: style="color:gray; font-size: 200%; text-align: center;"}
