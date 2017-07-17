@@ -34,12 +34,14 @@ Otra ventaja es que podemos gastar los bitcoins en todo el mundo. Al ser una mon
 Por último, y muy importante al considerar ahorrar: bitcoin tiende a aumentar su valor. Acá hay una tabla con el valor de 1 bitcoin a lo largo de los últimos 5 años.
 
 <img src="/img/ahorrar/3.png">
+
 Precio de 1 bitcoin a principios de cada año. Fuente: [bitcoincharts.com](http://bitcoincharts.com/)
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
 Claramente es una moneda con mucha volatilidad (grandes variaciones de precios a corto plazo). Esto genera bastante incertidumbre con respecto al valor que pueden tener nuestros ahorros convertidos a bitcoin. Pero es una incertidumbre que prefiero asumir, contra la *total certidumbre* de que el peso va a perder el 27% de su valor año a año!! De todas formas veamos la evolución del precio en los últimos cuatro años:
 
 <img src="/img/ahorrar/4.png">
+
 Evolución del precio de 1 bitcoin en los últimos 4 años.
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
@@ -50,6 +52,7 @@ Sin embargo, lo interesante de bitcoin no es su performance como inversión sino
 Resumiendo las diferencias en una tabla:
 
 <img src="/img/ahorrar/5.png">
+
 Comparando bitcoin con el peso argentino.
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
