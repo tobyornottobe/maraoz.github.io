@@ -12,6 +12,7 @@ comments: true
 El problema es que en un país como Argentina, donde la moneda se devalúa en caída libre contra el valor de reserva (dólar), y donde [los precios sufren una inflación anual del 27%](http://www.economist.com/category/print-sections/economic-and-financial-indicators), conservar pesos abajo del colchón nos da una sensación de que se nos esfuma la plata de las manos con el correr del tiempo. Y eso es exactamente lo que ocurre:
 
 <img src="/img/ahorrar/2.png">
+
 Valor de un peso en dólares (cuántos dólares puedo comprar con 1 peso) a valor oficial en los últimos 10 años. Fuente: [xe.com](xe.com)
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
@@ -60,13 +61,18 @@ Comparando bitcoin con el peso argentino.
 . . .
 {: style="color:gray; font-size: 200%; text-align: center;"}
 
-Para más información sobre bitcoin te recomiendo leer: 
+Para más información sobre bitcoin te recomiendo leer:
+
 [http://www.queesbitcoin.info/](http://www.queesbitcoin.info/)
 
 Si te interesa probar obtener tus primeros bitcoins contactá a alguien en 
+
 [https://localbitcoins.com/es/](https://localbitcoins.com/es/)
+
 [https://www.unisend.com](https://www.unisend.com)
+
 [https://conectabitcoin.com/](https://conectabitcoin.com/)
 
 Y aprendé cómo guardar tus bitcoins de forma segura:
+
 [http://bitcoin.org/en/getting-started](http://bitcoin.org/en/getting-started)
