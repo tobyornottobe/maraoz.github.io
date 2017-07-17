@@ -67,15 +67,12 @@ Comparando bitcoin con el peso argentino.
 Para más información sobre bitcoin te recomiendo leer:
 
 [http://www.queesbitcoin.info/](http://www.queesbitcoin.info/)
-
+<br/>
 Si te interesa probar obtener tus primeros bitcoins contactá a alguien en 
-
 [https://localbitcoins.com/es/](https://localbitcoins.com/es/)
-
 [https://www.unisend.com](https://www.unisend.com)
-
 [https://conectabitcoin.com/](https://conectabitcoin.com/)
-
+<br/>
 Y aprendé cómo guardar tus bitcoins de forma segura:
 
 [http://bitcoin.org/en/getting-started](http://bitcoin.org/en/getting-started)
