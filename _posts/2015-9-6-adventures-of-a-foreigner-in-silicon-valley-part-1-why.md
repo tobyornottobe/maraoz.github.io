@@ -26,7 +26,7 @@ Silicon Valley is a strange place. We feel like we’ve only scratched the surfa
 
 I’ll end with a picture of a 100% robot-operated store we found in Downtown Palo Alto, because we found it super cool.
 
-<img class="centerimage" src="/img/adventures_pt1/1.jpeg">
+<img src="/img/silicon1/1.jpeg">
 
 
 The one with the green shirt is Santi, who hosted us for a month back in June. He’s our [Erlich Bachman](https://www.youtube.com/watch?v=N6Zz-Nkkaxc).
