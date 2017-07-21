@@ -33,9 +33,7 @@ Otra ventaja es que podemos gastar los bitcoins en todo el mundo. Al ser una mon
 
 Por último, y muy importante al considerar ahorrar: bitcoin tiende a aumentar su valor. Acá hay una tabla con el valor de 1 bitcoin a lo largo de los últimos 5 años.
 
-
-![Test123](/img/ahorrar/3.png){: .center-image }
-
+<img class="center-image" src="/img/ahorrar/3.png">
 
 Precio de 1 bitcoin a principios de cada año. Fuente: [bitcoincharts.com](http://bitcoincharts.com/)
 {: style="color:gray; font-size: 80%; text-align: center;"}

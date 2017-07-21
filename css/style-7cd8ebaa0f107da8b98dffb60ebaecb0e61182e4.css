@@ -93,6 +93,12 @@ blockquote p {
   max-width: 60%;
 }
 
+.center-image
+{
+  margin: 0 auto;
+  display: block;
+}
+
 #progressbar {
   background-color: #E2E7EA;
   border-radius: 13px; /* (height of inner div) / 2 + padding */
