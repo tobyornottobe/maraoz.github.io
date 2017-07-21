@@ -93,10 +93,9 @@ blockquote p {
   max-width: 60%;
 }
 
-.center-image
-{
-  margin: 0 auto;
+.centerimage {
   display: block;
+  margin: 0 auto;
 }
 
 #progressbar {
