@@ -14,9 +14,9 @@ One of the biggest problems we had to deal with this weeks was finding a place i
 
 <blockquote>
 The renting experience in SF is broken: lots of time scouting & visiting, complicated forms, outdated application processes and trust issues
- — [@demibrener](https://twitter.com/demibrener/status/645397995534487553)
 </blockquote>
-<img src="/img/silicon2/2.png">
+— [@demibrener](https://twitter.com/demibrener/status/645397995534487553)
+<img class="centerimage" src="/img/silicon2/2.png">
 
 You can’t possibly imagine how crazy it’s to rent in San Francisco, unless you’ve gone through the experience. First off, prices are *insane*. For comparison, I used to pay ~$500 for a 3 bedroom apt back in Buenos Aires. Something similar would easily cost $5000+ in SF.
 
@@ -24,7 +24,7 @@ And the demand is super high too, so you’re competing with dozens of other app
 
 With regards to work, we’re mostly talking with people. For a developer like me, it’s hard to spend 80% of the time not writing code. We’re trying to apply user-centered design principles that could be simply reduced to “listen to your users and try to understand them”. The amount of things we’re learning by just talking to people is fantastic. We’re also developing very useful skills in empathy and listening. This is an attempt to prevent previous mistakes where we built products for which there wasn’t a strong demand. We know we’re good at executing and [building](https://www.proofofexistence.com/) [awesome](https://streamium.io/) [products](https://faradam.com/) when we know what to aim for. We’re now trying to improve our aim :)
 
-<img src="/img/silicon2/3.jpeg">
+<img class="centerimage" src="/img/silicon2/3.jpeg">
 
 Random photo of the best pizza I ever tried. Contains: mozzarella, tomato slices, avocado, bacon, chicken and spinach (I think). From: California Pizza Kitchen.
 {: style="color:gray; font-size: 80%; text-align: center;"}
@@ -37,6 +37,7 @@ First, I’m trying to make new friends here and have a somewhat active social l
 
 Second, I stay in touch with my loved ones as much as I can: WhatsApp, Facebook, emails, etc. I’m doing 3 or 4 skype calls per week with close friends and family, and they really really help. It’s important to stay happy and connected to your roots, even from a “what’s-best-for-the-startup” perspective. Whatever helps the founders also helps the company. And talking to people in Buenos Aires makes me come down to earth, be thankful, and stay positive. Thank you to everyone supporting us from Argentina!
 
-<img src="/img/silicon2/4.jpeg">
+<img class="centerimage" src="/img/silicon2/4.jpeg">
+
 Two hackers and a drone at the Stanford Oval.
 {: style="color:gray; font-size: 80%; text-align: center;"}
