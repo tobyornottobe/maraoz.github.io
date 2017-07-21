@@ -32,4 +32,5 @@ I’ll end with a picture of a 100% robot-operated store we found in Downtown Pa
 The one with the green shirt is Santi, who hosted us for a month back in June. He’s our [Erlich Bachman](https://www.youtube.com/watch?v=N6Zz-Nkkaxc).
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-Here’s part 2: [https://medium.com/@maraoz/adventures-of-a-foreigner-in-silicon-valley-fbf98d811a35](https://medium.com/@maraoz/adventures-of-a-foreigner-in-silicon-valley-fbf98d811a35)
+Here’s part 2: 
+[https://medium.com/@maraoz/adventures-of-a-foreigner-in-silicon-valley-fbf98d811a35](https://medium.com/@maraoz/adventures-of-a-foreigner-in-silicon-valley-fbf98d811a35)
