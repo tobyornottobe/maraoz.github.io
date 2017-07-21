@@ -17,7 +17,7 @@ One of the biggest problems we had to deal with this weeks was finding a place i
 <footer>— <a href="https://twitter.com/demibrener/status/645397995534487553">@demibrener</a></footer>
 </blockquote>
 
-<img class="centerimage" src="/img/silicon2/2.jpg">
+<img class="centerimage" src="/img/silicon2/2.png">
 
 You can’t possibly imagine how crazy it’s to rent in San Francisco, unless you’ve gone through the experience. First off, prices are *insane*. For comparison, I used to pay ~$500 for a 3 bedroom apt back in Buenos Aires. Something similar would easily cost $5000+ in SF.
 
