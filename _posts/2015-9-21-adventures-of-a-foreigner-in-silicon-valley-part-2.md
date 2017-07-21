@@ -12,11 +12,10 @@ Our new neighbors moved in, and they turned out to be a Russian FinTech VC firm.
 
 One of the biggest problems we had to deal with this weeks was finding a place in San Francisco. The end of September is approaching and we need to free our current apartment by October 1st. But unfortunately for us…
 
-<blockquote>
-The renting experience in SF is broken: lots of time scouting & visiting, complicated forms, outdated application processes and trust issues
+<blockquote cite="https://twitter.com/demibrener/status/645397995534487553">
+<p>The renting experience in SF is broken: lots of time scouting & visiting, complicated forms, outdated application processes and trust issues</p>
+<footer>— <a href="https://twitter.com/demibrener/status/645397995534487553"> — @demibrener</a></footer>
 </blockquote>
-— [@demibrener](https://twitter.com/demibrener/status/645397995534487553)
-<img class="centerimage" src="/img/silicon2/2.png">
 
 You can’t possibly imagine how crazy it’s to rent in San Francisco, unless you’ve gone through the experience. First off, prices are *insane*. For comparison, I used to pay ~$500 for a 3 bedroom apt back in Buenos Aires. Something similar would easily cost $5000+ in SF.
 
