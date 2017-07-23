@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adventures of a Foreigner in Silicon Valley; Part 2: Roof, Empathy and Connection."
-date:   2015-9-6 15:10:00
+date:   2015-9-21 15:10:00
 comments: true
 ---
 <img src="/img/silicon2/1.jpeg">
