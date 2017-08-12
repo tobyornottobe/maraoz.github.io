@@ -43,6 +43,7 @@ rgba(243,239,220,1)
   -webkit-border-radius: 1500px;
   -moz-border-radius: 1500px;
   background: url(../img/avatar.jpg) no-repeat;
+  background-position: center; 
 }
 
 ul {
