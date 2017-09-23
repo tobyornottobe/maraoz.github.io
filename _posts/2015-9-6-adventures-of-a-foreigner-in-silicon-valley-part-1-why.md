@@ -34,4 +34,4 @@ The one with the green shirt is Santi, who hosted us for a month back in June. H
 
 Here’s part 2:
  
-[https://medium.com/@maraoz/adventures-of-a-foreigner-in-silicon-valley-fbf98d811a35](https://medium.com/@maraoz/adventures-of-a-foreigner-in-silicon-valley-fbf98d811a35)
+[https://medium.com/@maraoz/adventures-of-a-foreigner-in-silicon-valley-fbf98d811a35](https://maraoz.com/2015/09/21/adventures-of-a-foreigner-in-silicon-valley-part-2/)
