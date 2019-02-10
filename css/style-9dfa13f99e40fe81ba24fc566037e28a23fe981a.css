@@ -56,8 +56,13 @@ a {
 a:visited {
   color: #2C768B;
 }
+
 pre, code {
-  background-color: #FCFCF4;
+  background-color: #fafafa;
+}
+
+pre.highlight {
+  background-color: #fafafa;
 }
 
 body {
