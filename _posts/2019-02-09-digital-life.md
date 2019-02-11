@@ -126,5 +126,5 @@ This mechanism on its own is not very useful, but hopefully the potential is cle
 
 For the complete code used in this post, check [this github project](https://github.com/maraoz/digital-life).
 
-Thanks for reading!
+*Thanks to Ross Campbell, Santiago Palladino, and Simon de la Rouviere for early feedback on this post.*
 
