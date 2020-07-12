@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Getting Artificial Neural Networks Closer to Animal Brains"
+comments: true
 ---
 
 <img class="cover" src="/img/brains-vs-anns/cover.jpg">
