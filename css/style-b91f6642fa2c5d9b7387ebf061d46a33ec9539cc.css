@@ -11,14 +11,13 @@ rgba(243,239,220,1)
   background: -o-linear-gradient(top, rgba(243,239,220,1) 0%, rgba(44,118,139,1) 100%);
   background: -ms-linear-gradient(top, rgba(243,239,220,1) 0%, rgba(44,118,139,1) 100%);
   background: linear-gradient(to bottom, rgba(243,239,220,1) 0%, rgba(44,118,139,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c768b', endColorstr='#f3efdc', GradientType=0 );
   /*background: url(../img/cover.png) no-repeat;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   width: 100%;
-  height: 400px;
+  height: auto;
 }
 
 .coverCard {
@@ -47,7 +46,9 @@ rgba(243,239,220,1)
 }
 
 ul {
-  list-style-type: none;
+}
+li {
+	margin-bottom: 0.5rem;
 }
 a {
   text-decoration: underline;
@@ -67,6 +68,11 @@ pre.highlight {
 
 body {
   text-align: justify;
+  word-break: break-word;
+}
+
+.post-header {
+  text-align: left;
 }
 
 blockquote {
@@ -76,6 +82,7 @@ blockquote {
   padding: 0.5em 10px;
   quotes: "\201C"\201D""\2018""\2019";
 }
+
 blockquote:before {
   color: #ccc;
   content: open-quote;
@@ -96,7 +103,17 @@ blockquote p {
 .swasthya {
   display: block;
   margin: 0 auto;
-  max-width: 60%;
+  max-width: 70%;
+}
+.brains-img {
+  display: block;
+  margin: 1.5rem auto;
+  max-width: 70%;
+}
+.brains-img-double {
+  display: inline;
+  margin: 1.5rem auto;
+  max-width: 49%;
 }
 
 .centerimage {
@@ -120,4 +137,16 @@ blockquote p {
   font-weight: bold;
   font-size: 0.83em;
   padding-left: 2px;
+}
+
+@media only screen and (max-width: 600px) {
+	.brains-img {
+    display: block;
+    max-width: 100%;
+    margin: 1rem 0;
+	}
+	.brains-img-double {
+    display: flex;
+    max-width: 100%;
+	}
 }

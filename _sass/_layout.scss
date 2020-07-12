@@ -181,6 +181,7 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+    text-transform: uppercase;
 }
 
 .post-link {
@@ -198,9 +199,11 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 3rem;
     letter-spacing: -1px;
     line-height: 1;
+    font-weight: 500;
+    font-family: serif;
 
     @include media-query($on-laptop) {
         font-size: 36px;

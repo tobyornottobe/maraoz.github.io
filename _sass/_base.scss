@@ -55,7 +55,11 @@ figure > img {
 }
 
 figcaption {
-    font-size: $small-font-size;
+    font-size: 1rem;
+    margin: -1rem 2rem 0;
+    text-align: center;
+    font-style: italic;
+    opacity: .8;
 }
 
 
@@ -80,7 +84,10 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+    font-weight: 600;
+    margin-top: 1.7rem;
+    color: black;
+		text-align: left;
 }
 
 
