@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "OpenAI's GPT-3 may be the biggest thing since bitcoin"
+comments: true
+---
+
+<img class="cover" src="/img/openai-gpt3/cover.jpg">
+
+
+OpenAI, a non-profit artificial intelligence research company backed by Peter Thiel, Elon Musk, Reid Hoffman, Marc Benioff, Sam Altman and others, released its third generation of language prediction model (GPT-3) into the open-source wild. Language models allow computers to produce random-ish sentences of approximately the same length and grammatical structure as those in a given body of text. 
+
+In my early experiments with GPT-3 I found that GPT-3's predicted sentences, when published on the bitcointalk.org forum, attracted lots of positive attention from posters there, including suggestions that the system must have been intelligent (and/or sarcastic) and that it had found subtle patterns in their posts. I imagine that similar results can be obtained by republishing GPT-3's outputs to other message boards, blogs, and social media. 
+
+I predict that, unlike its two predecessors (PTB and OpenAI GPT-2), OpenAI GPT-3 will eventually be widely used to pretend the author of a text is a person of interest, with unpredictable and amusing effects on various communities.
+I further predict that this will spark a creative gold rush among talented amateurs to train similar models and adapt them to a variety of purposes, including: mock news, "researched journalism", advertising, politics, and propaganda.
+
+## Are you being served?
+
+I chose bitcointalk.org as the target environment for my experiments for a variety of reasons: It is a popular forum with many types of posts and posters.
+
+So there are lots of posts for GPT-3 to study and learn from. The forum also has many people I don't like. I expect them to be disproportionately excited by the possibility of having a new poster that appears to be intelligent and relevant.
+I've been following the forum for years. There are many posts I know the answers to, so I could provide a quick response and measure how well GPT-3 does with comments similar to those I make.
+
+I posted about one interesting tech topic every day in May, alternating between using my own words and paraphrasing my previous post with GPT-3's help.  I didn't take special care to make these GPT-3-enhanced posts blend in well. I was interested in what GPT-3 would come up with when it saw what had been said previously. The table below shows some results:
+
+My expectation was that, like PTB, GPT-3 would be mostly about the forum's already existing memes and have trouble producing fresh ideas. This prediction seems to have been true. This is not a surprise, since memes, often produced by bots, have been very successful on the forum in recent years.  Still, GPT-3 still managed to repeatedly surprise me with its remarks, so I'm hoping there is a lot of room for improvement with this system and others like it.  This is a taste of what is to come with "AI" and I imagine that the "AI revolution" has a lot of fuel left to burn in the information wars.
+
+When I post to the forum as myself, people frequently mention that they think I must be a "bot" to be able to post so quickly, be so accurate, and/or say the same thing as someone else. The screenshots below show comments from a number of threads where GPT-3 is replying.  All of these were posted to bitcointalk.org within the last few days.  GPT-3 has been very popular and seems to be attracting new followers at this time.
+
+## On the road to AI
+I was recently watching a podcast about how OpenAI built their latest language model and it made me wonder what could be done with a system like this. I could not stop thinking about the applications of such a technology and how it could improve our lives.  I was thinking of how cool it would be to build a Twitter-like service where the only posts are GPT-3 outputs.
+
+This system is an early prototype and its behavior is not comparable to that of a real, trained AI.  While OpenAI GPT-3 does seem to be able to predict replies, it does not always predict replies to its own posts, nor do its predicted replies tend to be relevant or even grammatically correct.  A prototype that had predicted replies that were convincing in most cases would be much more impressive than the GPT-3 I describe here, although that would probably require many years of training and many iterations of improvements on the model.  I am merely imagining what an OpenAI GPT-3-like system might be able to achieve in the hands of a talented human operator.
+
+
+---
+
+
+# Now for the fun part
+I have a confession: I *did not* write the above article. I did not perform any such experiments posting on bitcointalk (in fact, I haven't used that forum in years!). But I did it on my own blog! This article was fully written by GPT-3. Where you able to recognize it? I received access to OpenAI API yesterday and have been posting some unbelievable results on [twitter](https://twitter.com/maraoz). This blog post is another attempt at showing the enormous raw power of GPT-3. This is what I gave the model as a prompt (copied from this website's homepage)
+
+```
+Manuel Araoz's Personal Website
+ 
+ Bio
+ I studied Computer Science and Engineering at Instituto Tecnológico de Buenos Aires. I'm located in Buenos Aires, Argentina.
+ My previous work is mostly about cryptocurrencies, distributed systems, machine learning, interactivity, and robotics. One of my goals is to bring new experiences to people through technology.
+
+ I cofounded and was formerly CTO at OpenZeppelin. Currently, I'm studying music, biology+neuroscience, machine learning, and physics.
+
+ Blog
+
+ JUL 18, 2020
+ Title: OpenAI's GPT-3 may be the biggest thing since bitcoin
+ tags: tech, machine-learning, hacking
+ Summary:  I share my early experiments with OpenAI's new language prediction model (GPT-3) beta. I explain why I think GPT-3 has disruptive potential comparable to that of blockchain technology.
+ Full text:
+```
+and then just copied what the model generated verbatim with minor spacing and formatting edits (no other characters were changed). I generated different results a couple (less than 10) times until I felt the writing style somewhat matched my own, and published it. I also added the cover image. Hope you were as surprised as I was with the quality of the result.
+
+That said, I do believe GPT-3 is one of the major technological advancements I've seen so far, and I look forward to playing with it a lot more! Very strange times lie ahead...
+
+
+<span>Cover photo by <a href="https://unsplash.com/@lenin33?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lenin Estrada</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</span>
