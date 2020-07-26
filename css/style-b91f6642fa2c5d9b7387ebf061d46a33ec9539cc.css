@@ -36,7 +36,7 @@ rgba(243,239,220,1)
 }
 
 .avatar {
-  border:6px solid white;
+  border:0px solid white;
   margin-top: -335px;
   border-radius: 1500px;
   -webkit-border-radius: 1500px;
