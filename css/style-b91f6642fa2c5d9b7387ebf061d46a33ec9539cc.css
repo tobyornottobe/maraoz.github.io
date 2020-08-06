@@ -17,7 +17,7 @@ rgba(243,239,220,1)
   -o-background-size: cover;
   background-size: cover;
   width: 100%;
-  height: auto;
+  min-height: 400px;
 }
 
 .coverCard {
@@ -29,7 +29,7 @@ rgba(243,239,220,1)
 }
 
 .coverCard .name {
-  font-size: 56px;
+  font-size: 3em;
   margin-bottom: 0px;
 }
 .coverCard .title {
@@ -37,18 +37,20 @@ rgba(243,239,220,1)
 
 .avatar {
   border:0px solid white;
-  margin-top: -335px;
+  margin-top: 116px;
   border-radius: 1500px;
   -webkit-border-radius: 1500px;
   -moz-border-radius: 1500px;
   background: url(../img/avatar.png) no-repeat;
   background-position: top;
+  width: 250px;
+  height: 250px;
 }
 
 ul {
 }
 li {
-	margin-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 a {
   text-decoration: underline;
@@ -81,54 +83,54 @@ blockquote {
   margin: 1.5em 10px;
   padding: 0.5em 10px;
   quotes: "\201C"\201D""\2018""\2019";
-}
+  }
 
-blockquote:before {
+  blockquote:before {
   color: #ccc;
   content: open-quote;
   font-size: 4em;
   line-height: 0.1em;
   margin-right: 0.25em;
   vertical-align: -0.4em;
-}
-blockquote p {
+  }
+  blockquote p {
   display: inline;
-}
+  }
 
 
-.perspective {
+  .perspective {
   max-width: 49%;
-}
+  }
 
-.swasthya {
+  .swasthya {
   display: block;
   margin: 0 auto;
   max-width: 70%;
-}
-.brains-img {
+  }
+  .brains-img {
   display: block;
   margin: 1.5rem auto;
   max-width: 70%;
-}
-.brains-img-double {
+  }
+  .brains-img-double {
   display: inline;
   margin: 1.5rem auto;
   max-width: 49%;
-}
+  }
 
-.centerimage {
+  .centerimage {
   display: block;
   margin: 0 auto;
-}
+  }
 
-#progressbar {
+  #progressbar {
   background-color: #E2E7EA;
   border-radius: 13px; /* (height of inner div) / 2 + padding */
   padding: 3px;
   margin-bottom: 24px;
-}
+  }
 
-#progressbar > div {
+  #progressbar > div {
   background-color: #2C768B;
   width: 3%;
   height: 20px;
@@ -140,13 +142,58 @@ blockquote p {
 }
 
 @media only screen and (max-width: 600px) {
-	.brains-img {
+
+  .wrapper {
+  }
+  .cover {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: auto;
+  }
+  .avatar {
+    text-align: center;
+    min-width: 250px;
+    min-height: 250px;
+    margin-top: 60px;
+  }
+
+  .coverCard {
+    display: block;
+    position: relative;
+    margin-left: 0px;
+    bottom: 0;
+    color: white;
+    font-weight: 800;
+  }
+
+  .coverCard .name {
+    text-align: center;
+    font-size: 2em;
+    display: block;
+  }
+
+  
+  .brains-img {
     display: block;
     max-width: 100%;
     margin: 1rem 0;
-	}
-	.brains-img-double {
+  }
+  .brains-img-double {
     display: flex;
     max-width: 100%;
-	}
+  }
 }
+
+
+/*Filter styles*/
+.saturate { filter: saturate(3); }
+.grayscale { filter: grayscale(100%); }
+.contrast { filter: contrast(160%); }
+.brightness { filter: brightness(0.25); }
+.blur { filter: blur(3px); }
+.invert { filter: invert(100%); }
+.sepia { filter: sepia(100%); }
+.huerotate { filter: hue-rotate(180deg); }
+.rss.opacity { filter: opacity(50%); }
+

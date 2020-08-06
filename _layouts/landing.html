@@ -6,18 +6,21 @@
   <body>
 
     <div class="cover">
-      <canvas id="coverCanvas" height="100"> </canvas>
       <div class="wrapper">
-        <img width="250" height="250" class="avatar" />
+        <img class="avatar" />
         <div class="coverCard">
           <h1 class="name">Manuel Araoz</h1>
           <div style="padding-bottom: 64px;">
             <a href="https://twitter.com/maraoz" style="text-decoration:none;">
-              <img src="/img/zwitter.png" width="64" alt="ywitter"></img>
+              <img class="invert" src="/img/zwitter.png" width="48" alt="ywitter"></img>
             </a>
             
-            <a href="https://github.com/maraoz">
-              <img src="/img/github.png" width="64" alt="GitHub"></img>
+            <a href="https://github.com/maraoz" style="text-decoration:none;">
+              <img class="invert" src="/img/github.png" width="48" alt="GitHub"></img>
+            </a>
+
+            <a href="https://twitch.tv/manuelaraoz" style="text-decoration:none;">
+              <img class="invert" src="/img/twitch.png" width="48" alt="Twitch"></img>
             </a>
           </div>
         </div>
@@ -31,8 +34,6 @@
 
     {% include footer.html %}
     {% include analytics.html %}
-
-    <script src="{{ "/js/chain.js" | prepend: site.baseurl}}"></script>
   </body>
 
 </html>
