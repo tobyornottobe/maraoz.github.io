@@ -82,55 +82,54 @@ blockquote {
   border-left: 10px solid #ccc;
   margin: 1.5em 10px;
   padding: 0.5em 10px;
-  quotes: "\201C"\201D""\2018""\2019";
-  }
+}
 
-  blockquote:before {
+blockquote:before {
   color: #ccc;
   content: open-quote;
   font-size: 4em;
   line-height: 0.1em;
   margin-right: 0.25em;
   vertical-align: -0.4em;
-  }
-  blockquote p {
+}
+blockquote p {
   display: inline;
-  }
+}
 
 
-  .perspective {
+.perspective {
   max-width: 49%;
-  }
+}
 
-  .swasthya {
+.swasthya {
   display: block;
   margin: 0 auto;
   max-width: 70%;
-  }
-  .brains-img {
+}
+.post-img {
   display: block;
   margin: 1.5rem auto;
   max-width: 70%;
-  }
-  .brains-img-double {
+}
+.post-img-double {
   display: inline;
   margin: 1.5rem auto;
   max-width: 49%;
-  }
+}
 
-  .centerimage {
+.centerimage {
   display: block;
   margin: 0 auto;
-  }
+}
 
-  #progressbar {
+#progressbar {
   background-color: #E2E7EA;
   border-radius: 13px; /* (height of inner div) / 2 + padding */
   padding: 3px;
   margin-bottom: 24px;
-  }
+}
 
-  #progressbar > div {
+#progressbar > div {
   background-color: #2C768B;
   width: 3%;
   height: 20px;
@@ -173,16 +172,17 @@ blockquote {
     display: block;
   }
 
-  
-  .brains-img {
+
+  .post-img {
     display: block;
     max-width: 100%;
     margin: 1rem 0;
   }
-  .brains-img-double {
+  .post-img-double {
     display: flex;
     max-width: 100%;
   }
+
 }
 
 
@@ -197,3 +197,6 @@ blockquote {
 .huerotate { filter: hue-rotate(180deg); }
 .rss.opacity { filter: opacity(50%); }
 
+.icon {
+  margin-left: 1em;
+}

@@ -11,7 +11,7 @@ Lately, I’ve been thinking and reading a lot about consciousness and how the h
 So, how far are we from _behaviorally _imitating a human? Truth is, we achieved a lot in the past 5 years (see [AlphaGo](https://deepmind.com/research/case-studies/alphago-the-story-so-far), [OpenGPT-2](https://openai.com/blog/better-language-models/), [OpenAI Jukebox](https://openai.com/blog/jukebox/), [Tesla Autopilot](https://en.wikipedia.org/wiki/Tesla_Autopilot), [Alphastar](https://deepmind.com/blog/article/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning), [OpenAI Dota2 Team](https://openai.com/blog/openai-five-defeats-dota-2-world-champions/), [OpenAI API](https://openai.com/blog/openai-api/)), but we’re still quite not there. My hunch is that we still can learn a lot from biology’s state of the art. I’ve done some research on differences in how human brains work and how we emulate them using deep neural networks, and what follows is a summary of what I’ve found (and some new ideas).
 
 <figure>
-  <img class="brains-img" src="/img/brains-vs-anns/image1.png">
+  <img class="post-img" src="/img/brains-vs-anns/image1.png">
   <figcaption>
     I find it encouraging that John Carmack is studying human brains for his AI research. <a href="https://twitter.com/ID_AA_Carmack/status/1280693213549002752">Source</a>.
   </figcaption>
@@ -28,15 +28,15 @@ However, this assumes the size of the network can only increase by adding more l
 
 ### Wide (vs. Deep) Neural Networks 
 
-<img class="brains-img-double" src="/img/brains-vs-anns/image8.png">
-<img class="brains-img-double" src="/img/brains-vs-anns/image3.png">
+<img class="post-img-double" src="/img/brains-vs-anns/image8.png">
+<img class="post-img-double" src="/img/brains-vs-anns/image3.png">
 
 A promising approach is exploring other kinds of architectures, where the concept of “layer” is forgotten, and networks are built more freely (with connections being modelled at the neuron level, and allowing for loops and more complex topologies). This [has been somewhat explored in the past](https://en.wikipedia.org/wiki/Boltzmann_machine), but I haven’t seen recent studies where today’s computing power is thrown at such architectures. Additionally, [Ken Stanley’s NEAT (2002)](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies) and derivatives are a very promising way of finding new topologies via evolution.
 
 
 ### Neural Grids
 
-<img style="max-width: 41%; display: inline; float: left; margin: 0 1.9rem" class="brains-img" src="/img/brains-vs-anns/image6.png">
+<img style="max-width: 41%; display: inline; float: left; margin: 0 1.9rem" class="post-img" src="/img/brains-vs-anns/image6.png">
 
 
 Another idea worth exploring: grid-like structures where each cell communicates only with its neighbors. In this neural net model, potential is not only passed forward, but also “upward” and “downward”, or even diagonally. This would emulate more closely, I think, a real brain’s connectivity. A related approach is [Hypercube-based NEAT (2009)](https://www.mitpressjournals.org/doi/abs/10.1162/artl.2009.15.2.15202), which allows exploiting the task’s geometry by mapping its regularities onto the topology of the network.
@@ -44,8 +44,8 @@ Another idea worth exploring: grid-like structures where each cell communicates 
 
 ### Artificial Cortical Columns
 
-<img class="brains-img-double" src="/img/brains-vs-anns/image9.png">
-<img class="brains-img-double" src="/img/brains-vs-anns/image5.png">
+<img class="post-img-double" src="/img/brains-vs-anns/image9.png">
+<img class="post-img-double" src="/img/brains-vs-anns/image5.png">
 
 
 Human’s brain neocortex seems to have a surprisingly self-repeating pattern, called [cortical columns](https://youtu.be/x2mYTaJPVnc?t=98). Each column can be thought of as a reusable ~110 neuron module that appears (with variations) across neocortex areas associated with such different functions as vision, motor control, auditory perception, decision-making, planning, etc. [Studying these structures](https://numenta.com/neuroscience-research/cortical-columns/) and applying similar concepts/topologies to ANNs seems like a promising approach. Cortical columns provide amazingly generic hierarchical information processing capabilities, feedback mechanisms, and layered communication with other parts of the brain. 
@@ -53,7 +53,7 @@ Human’s brain neocortex seems to have a surprisingly self-repeating pattern, c
 
 ### Generative architectures arising from growth
 
-<img style="max-width: 55%; display: inline; float: right; margin-left: 1.9rem" class="brains-img" src="/img/brains-vs-anns/image10.png">
+<img style="max-width: 55%; display: inline; float: right; margin-left: 1.9rem" class="post-img" src="/img/brains-vs-anns/image10.png">
 
 What if neural net architecture is determined by a generative / procedural algorithm on runtime, instead of being defined by researchers? The seed could be random or evolved through genetic algorithms too. I think that somehow mimicking [neurulation of human embryos](https://www.youtube.com/watch?v=BtLyik7oAxc&list=PLTF9h-T1TcJjUxgs0dqyDCaS-glauXcsL&index=4) via simple models could lead to finding better-performing architectures. Human brains grow into existence, and maybe that matters for high-level intelligence.
 
@@ -71,7 +71,7 @@ On a similar ‘meta-learning’ vein, the comically named [Learning to learn by
 ### Continuous (vs. discrete) neuron firing
 
 
-<img class="brains-img" src="/img/brains-vs-anns/image4.png">
+<img class="post-img" src="/img/brains-vs-anns/image4.png">
 
 
 Instead of processing inputs in discrete events, our networks could ‘stare’ at inputs for a couple iterations, and neurons can ‘store-up’ potential until they fire. This aims to mimic how we humans can look at something we don’t understand, but after a couple of seconds we “get it”. This could also enable the emergence of “memories” in the form of stored potential, too, analogous to the hidden state vector of LSTMs. Check out [Gabriel Kreiman’s related work (2018)](https://www.youtube.com/watch?v=lddzHEtu934) on improving object detection in occluded or distorted conditions. Regardless of the specific implementations mentioned above, biological brains clearly have a temporal dimension (for example, [neurons in the visual motion MT area respond to direction of motion](https://www.youtube.com/watch?v=aFrG7KdjUOs&list=PLyGKBDfnk-iAQx4Kw9JeVqspbg77sfAK0&index=32)), which we need to understand better to inform construction of artificial ones. Another interesting time-related property of biological brains is [the difference between tonic vs bursting modes of neuron firing](https://youtu.be/fki7AmLma_I?t=450).
@@ -83,8 +83,8 @@ Animal brains are surprisingly pre-wired and connected since birth, and it’s s
 
 Many well-performing techniques simply stack two architectures that work for two separate domains (eg: CNN visual embedder and LSTM language model) and re-train them for a new combined task (eg: image captioning). 
 
-<img class="brains-img-double" src="/img/brains-vs-anns/image7.png">
-<img class="brains-img-double" src="/img/brains-vs-anns/image2.png">
+<img class="post-img-double" src="/img/brains-vs-anns/image7.png">
+<img class="post-img-double" src="/img/brains-vs-anns/image2.png">
 
 
 I suggest trying to mimic what we know today of how the human brain is wired (from [the Human Connectome Project](http://www.humanconnectomeproject.org/), for example), and plugging in some state-of-the-art modules for vision, language, and audio-processing.
