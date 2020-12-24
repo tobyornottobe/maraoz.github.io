@@ -28,6 +28,7 @@ To close this brief post, I'll share a bold prediction (and hope) on this topic:
 - [The Social Dilemma documentary](https://www.imdb.com/title/tt11464826/). Available on Netflix.
 - [Ingrid Goes West movie](https://www.imdb.com/title/tt5962210/). Thanks Vera!
 - ["Is Social Media Hurting Your Mental Health?" talk by Bailey Parnell](https://www.youtube.com/watch?v=Czg_9C7gw0o).
+- [Black Mirror's "Nosedive" episode](https://www.imdb.com/title/tt5497778/)
 
 
 ### Acknowledgements
