@@ -27,6 +27,7 @@ To close this brief post, I'll share a bold prediction (and hope) on this topic:
 - [Cal Newport's talk on "Why you should quit social media"](https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media?language=en). Watching this was the first time I seriously considered quitting it forever.
 - [The Social Dilemma documentary](https://www.imdb.com/title/tt11464826/). Available on Netflix.
 - [Ingrid Goes West movie](https://www.imdb.com/title/tt5962210/). Thanks Vera!
+- ["Is Social Media Hurting Your Mental Health?" talk by Bailey Parnell](https://www.youtube.com/watch?v=Czg_9C7gw0o).
 
 
 ### Acknowledgements
