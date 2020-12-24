@@ -47,6 +47,11 @@ rgba(243,239,220,1)
   height: 250px;
 }
 
+.first-letter {
+  font-size: 4em;
+  line-height: 1em;
+}
+
 ul {
 }
 li {

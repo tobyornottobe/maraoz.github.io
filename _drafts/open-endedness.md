@@ -108,6 +108,7 @@ Behaviors in order of complexity:
 ### Additional Resources and Learning
 - [Ken Stanley's "Why Greatness Cannot Be Planned: The Myth of the Objective" non-technical talk](https://www.youtube.com/watch?v=dXQPL9GooyI).
 - [Ken Stanley's "On Creativity, Objectives, and Open-Endedness" keynote at HLAI](https://www.youtube.com/watch?v=y2I4E_UINRo).
+- [David Deutsch's "The Beginning of Infinity" book](https://www.goodreads.com/book/show/12187787-the-beginning-of-infinity).
 
 
 ### Acknowledgements
