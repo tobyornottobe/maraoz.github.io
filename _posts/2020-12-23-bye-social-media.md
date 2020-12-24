@@ -35,4 +35,4 @@ To close this brief post, I'll share a bold prediction (and hope) on this topic:
 <span>Cover photo by <a href="https://unsplash.com/@milo_contreras?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Camilo Contreras</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ### Comments and Discussion
-[Discuss on HN (pending)]() - [Discuss on Reddit (pending)]() - [Email a private comment](mailto:bye-social-media@maraoz.com)
+[Discuss on HN](https://news.ycombinator.com/item?id=25524429) - [Discuss on Reddit](https://www.reddit.com/r/simpleliving/comments/kj6j15/social_media_considered_harmful/) - [Email a private comment](mailto:bye-social-media@maraoz.com)
