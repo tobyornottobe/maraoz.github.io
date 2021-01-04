@@ -31,6 +31,8 @@ To close this brief post, I'll share a bold prediction (and hope) on this topic:
 - [Black Mirror's "Nosedive" episode](https://www.imdb.com/title/tt5497778/).
 - ["What I learned from my social media fast" talk by Amber Quinney](https://www.youtube.com/watch?v=gM3KIvZO5oU).
 - ["Live in the Moment: Delete Social Media" talk by Ryan Thomas](https://www.youtube.com/watch?v=pOchBnZJdEk)
+- [The Burnout Society by Byung-Chul Han](https://www.goodreads.com/book/show/26085550-the-burnout-society)
+- [Instagram Is Dead (It Just Doesn’t Know It Yet) by Jared A. Brock ](https://medium.com/better-marketing/instagram-is-dead-it-just-doesnt-know-it-yet-b030445371f4)
 
 
 ### Acknowledgements
