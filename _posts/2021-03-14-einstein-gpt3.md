@@ -319,4 +319,4 @@ If you enjoyed what you read and would like to be notified when a new post comes
 </div>
   
 
-[Discuss on HN](https://news.ycombinator.com/item?id=26461368) — [Discuss on Reddit (soon)]() — [Email a private comment](mailto:einstein-gpt3@maraoz.com)
+[Discuss on HN](https://news.ycombinator.com/item?id=26461368) — [Discuss on Reddit](https://www.reddit.com/r/OpenAI/comments/m591a0/interviewing_albert_einstein_via_gpt3_maraozcom/) — [Email a private comment](mailto:einstein-gpt3@maraoz.com)
