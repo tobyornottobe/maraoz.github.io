@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Social Media Considered Harmful"
-comments: true
 ---
 <img class="cover" src="/img/bye-social-media/cover.jpg">
 
@@ -43,4 +42,9 @@ To close this brief post, I'll share a bold prediction (and hope) on this topic:
 <span>Cover photo by <a href="https://unsplash.com/@milo_contreras?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Camilo Contreras</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ### Comments and Discussion
-[Discuss on HN](https://news.ycombinator.com/item?id=25524429) - [Discuss on Reddit](https://www.reddit.com/r/simpleliving/comments/kj6j15/social_media_considered_harmful/) - [Email a private comment](mailto:bye-social-media@maraoz.com)
+[Discuss on HN](https://news.ycombinator.com/item?id=25524429) — [Discuss on Reddit](https://www.reddit.com/r/simpleliving/comments/kj6j15/social_media_considered_harmful/) — [Email a private comment](mailto:bye-social-media@maraoz.com)
+
+
+<div style="text-align: center">
+	<iframe style="display:block;" src="https://maraoz.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+</div>
