@@ -2,7 +2,6 @@
 layout: post
 title:  "Beauty and mindfulness"
 date:   2017-11-2 15:10:00
-lang: "en"
 comments: true
 ---
 
