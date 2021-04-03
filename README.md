@@ -26,6 +26,7 @@ My personal site
 >     ---
 >     layout: post
 >     title:  "Designing Digital Life and Death"
+>     ...
 >     lang: LANGULAGE_CODE
 >     ---  
 
