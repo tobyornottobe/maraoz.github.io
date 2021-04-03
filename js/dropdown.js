@@ -13,10 +13,9 @@ $(document).ready(function () {
     for (var index = 0; index < langContainers.length; index++) {
       var container = langContainers[index];
       var lang = $(container).attr('lang');
-      if (lang == "")
-        var url = $(container).attr('post-url');
+      var url = $(container).attr('post-url');
 
-      if (lang != "") {
+      if (lang) {
         var lang_pattern;
         if (lang == "en") {
           lang_pattern = '/$';
