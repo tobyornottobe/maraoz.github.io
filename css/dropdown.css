@@ -48,6 +48,8 @@
   height: 1em;
   padding-right: 12px;
   margin-left: 12px;
+  vertical-align: top;
+  margin-top: -3px;
 }
 
 .language-menu .dropdown-button{
