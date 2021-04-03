@@ -15,15 +15,18 @@ layout: landing
   </p>
   <h1>Blog Posts</h1>
   <ul class="post-list">
-    {% for post in site.posts limit:3 %}
-    <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    {% for post in site.posts limit:9 %}
+      {% if post.lang=="en"%}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-      <h2>
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-    </li>
+        <h2>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+      {% endif %}
     {% endfor %}
+    
     <a href="/blog">See more</a>
   </ul>
   <h1>Projects</h1>
