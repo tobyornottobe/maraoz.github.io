@@ -2,7 +2,7 @@
 layout: post
 title:  "Belleza y Mindfulness"
 date:   2017-11-2 15:10:00
-lang: "en"
+lang: "es"
 comments: true
 ---
 

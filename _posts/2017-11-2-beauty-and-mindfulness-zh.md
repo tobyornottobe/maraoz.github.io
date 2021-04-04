@@ -2,7 +2,7 @@
 layout: post
 title:  "美丽和正念"
 date:   2017-11-2 15:10:00
-lang: "en"
+lang: "zh"
 comments: true
 ---
 
