@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Interviewing Albert Einstein via GPT-3"
-lang: "en"
 comments: true
 ---
 <figure>
