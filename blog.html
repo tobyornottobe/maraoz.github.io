@@ -7,15 +7,17 @@ layout: default
 
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.lang != "es" and post.lang != "zh" %}
-        <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      {% unless post.draft %}
+        {% if post.lang != "es" and post.lang != "zh" %}
+          <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-          <h2>
-            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
-        </li>
-      {% endif %}
+            <h2>
+              <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+          </li>
+        {% endif %}
+      {% endunless %}
     {% endfor %}
   </ul>
 

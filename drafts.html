@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="home">
+  <ul class="post-list">
+    {% for post in site.posts limit:18 %}
+      {% if post.draft %}
+        <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        </li>
+        {% endif %}
+    {% endfor %}
+    
+  </ul>
+</div>
+
+

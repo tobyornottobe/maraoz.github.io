@@ -13,7 +13,7 @@ layout: landing
   </p>
   I cofounded and was formerly CTO at <a href="https://openzeppelin.com/">OpenZeppelin</a>. Currently, I'm studying music, biology+neuroscience, and physics. 
   </p>
-  <h1>Blog Posts</h1>
+  <h1>Latest Blog Posts</h1>
   <style>
     .post-list>li:nth-of-type(n + 4){
       display: none;
@@ -21,16 +21,18 @@ layout: landing
     }
   </style>
   <ul class="post-list">
-    {% for post in site.posts limit:9 %}
-      {% if post.lang != "es" and post.lang != "zh" %}
-    <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    {% for post in site.posts limit:18 %}
+      {% unless post.draft %}
+        {% if post.lang != "es" and post.lang != "zh" %}
+          <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-      <h2>
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-    </li>
-      {% endif %}
+            <h2>
+              <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+          </li>
+        {% endif %}
+      {% endunless %}
     {% endfor %}
     
     <a href="/blog">See more</a>
