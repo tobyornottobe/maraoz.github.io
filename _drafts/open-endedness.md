@@ -8,7 +8,7 @@ comments: true
 *This article contains no GPT-3 generated content.*
 
 
-I've recently come accross the concept of **open-endedness** through [an introductory article](https://www.oreilly.com/radar/open-endedness-the-last-grand-challenge-youve-never-heard-of/) by Ken Stanley[^1]. I soon realized this was something I actually had been interested in since I was a child, and got excited to find a conceptual framework to think about it. 
+I've recently come accross the concept of **open-endedness** through [an introductory article](https://www.oreilly.com/radar/open-endedness-the-last-grand-challenge-youve-never-heard-of/) by Ken Stanley[^1]. I soon realized this was something I had been interested in since I was a child, and got excited to find a conceptual framework to think about it. 
 
 In a nutshell, open-endedness is a property attributed to systems that forever generate unbounded complexity and interesting qualities. What defines unbounded complexity, you may ask? Who defines what's interesting and what not? How do we measure forever? These are questions even experts in open-endedness can't answer yet. Ken Stanley himself argued that [maybe the only valid method for evaluating open-endedness is subjective](http://eplex.cs.ucf.edu/papers/stanley_oee2workshop16.pdf).
 
