@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Programming vs. Auditing"
+title:  "Programming Mindset vs. Auditing Mindset"
 ---
 
 Programming:
