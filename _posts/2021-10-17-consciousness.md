@@ -10,11 +10,14 @@ draft: true
 </figure>
 <img class="cover" src="/img/consciousness/cover.jpg">
 
-<a href="https://en.wikipedia.org/wiki/Consciousness">Consciousness</a> is a very hard problem. It has been studied for many decades and still there seems to be no consensus on a solution, nor on what the problem is. It's probably one of the most commonly misunderstood topics in science today. The prevailing view both in the scientific and tech community is that of materialism: consciousness emerges from brain activity and there's not much mystery to it. That's not surprising: the whole epistemological framework of science relies on leaving subjective interpretations out of its models. 
+<a href="https://en.wikipedia.org/wiki/Consciousness">Consciousness</a> is a very hard problem. It has been studied for many decades and still there seems to be no consensus on a solution, nor on what the problem is. It's probably one of the most commonly misunderstood topics in science today. The prevailing view both in the scientific and tech community is that of materialism: consciousness [emerges from brain activity and it happens automatically](https://youtu.be/luGE5e2_xKM?t=1410). That's not surprising: the whole epistemological framework of science relies on leaving subjective interpretations out of its models. 
 For many of us, this explanation is not enough: I find myself in the camp that is looking for a deeper understanding of what makes us conscious. That's why I belive that science needs to evolve to include subjective phenomena in its models. As Schrödinger wrote in his fantastic "What is Life" book: 
 > I maintain that [consciousness] cannot be solved on the level of present-day science which is still entirely engulfed in the ‘exclusion principle’ – without knowing it – hence the antinomy. To realize this is valuable, but it does not solve the problem. You cannot remove the ‘exclusion principle’ by act of parliament as it were. Scientific attitude would have to be rebuilt, science must be made anew. Care is needed.
 
 > The reason why our sentient, percipient and thinking ego is met nowhere within our scientific world picture can easily be indicated in seven words: because it is itself that world picture.
+
+> “The strange fact that on the one hand all our knowledge about the world around us, both
+that gained in everyday life and that revealed by the most carefully planned and painstaking laboratory experiments, rests entirely on immediate sense perception, while on the other hand this knowledge fails to reveal the relations of the sense perceptions to the outside world, so that in the picture or model we form of the outside world, guided by our scientific discoveries, all sensual qualities are absent”
 
 This requires rethinking the way we conduct the scientific method, and redefining what constitutes a good theory of consciousness. I like David Deutsch's idea of looking for good explanations as the first step. Without the pretense of setting up a new epystemologycal program for a new science of consciousness, in this post, I'll try to at least define which phenomena need to be accounted for by a new comprehensive explanation of consciousness. In future posts (probably in a couple of years), I will explore ideas on how we can build such a theory.
 
@@ -62,6 +65,7 @@ I'll leave you with a longer excerpt from Schrödinger to think about:
 - [John Searle's TED talk](https://www.youtube.com/watch?v=j_OPQgPIdKg)
 - [From Artificial Intelligence to Artificial Consciousness TED talk by Joscha Bach](https://www.youtube.com/watch?v=Jr7gY3JyzP8&t=15s).
 - [David Deutsch's "The Beginning of Infinity"](https://www.goodreads.com/book/show/12187787-the-beginning-of-infinity).
+- [Christof Koch's talk on The Future of Consciousness](https://www.youtube.com/watch?v=luGE5e2_xKM&list=PL55XqDjybyL_8NWo9WDUrGoAQP619PFLg&index=35).
 
 
 
