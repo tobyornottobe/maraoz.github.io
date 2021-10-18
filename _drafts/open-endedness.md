@@ -78,9 +78,6 @@ Multicellular orgs compete with each other for survival.
 Civilizations/cultures compete with each other for resources. 
 Maybe science will create the next generator? 
 
-## Final thoughts and future work
-
-
 ## A Strange Loop
 open-endedness <=> consciousness ?
 why don't we model the scientist looking at the open-ended simulation
@@ -103,7 +100,9 @@ Behaviors in order of complexity:
 - ability to cooperate at a large scale
 - multicellular structure / compositionality ?
 - ability to use tools
-- ability to build (eg: architecture)
+- ability to build and shape the world (eg: architecture)
+
+## Final thoughts and future work
 
 ### Additional Resources and Learning
 - [Ken Stanley's "Why Greatness Cannot Be Planned: The Myth of the Objective" non-technical talk](https://www.youtube.com/watch?v=dXQPL9GooyI).
