@@ -5,7 +5,7 @@ draft: true
 ---
 <figure>
   <figcaption style="text-align: left">
-  Summary: I outline requirements for a new theory of consciousness: several anomalies that need to be explained.
+  Summary: I outline some requirements for a new theory of consciousness and several anomalies that need to be explained.
   </figcaption>
 </figure>
 <img class="cover" src="/img/consciousness/cover.jpg">
