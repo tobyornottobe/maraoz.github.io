@@ -5,7 +5,7 @@ draft: true
 ---
 <img class="cover" src="/img/consciousness/cover.jpg">
 
-<a href="https://en.wikipedia.org/wiki/Consciousness"><span class="first-letter">C</span>onsciousness</a> is probably one of the most commonly misunderstood topics in science today. The prevailing view both in the scientific and tech community is that of materialism: consciousness emerges from brain activity and there's not much mystery to it. That's not surprising: the whole epistemological framework of science relies on leaving subjective interpretations out of its models. 
+<a href="https://en.wikipedia.org/wiki/Consciousness">Consciousness</a> is probably one of the most commonly misunderstood topics in science today. The prevailing view both in the scientific and tech community is that of materialism: consciousness emerges from brain activity and there's not much mystery to it. That's not surprising: the whole epistemological framework of science relies on leaving subjective interpretations out of its models. 
 For many of us, this explanation is not enough: I find myself in the camp that is looking for a deeper understanding of what makes us conscious. That's why I belive that science needs to evolve to include subjective phenomena in its models. As Schrödinger wrote in his fantastic "What is Life" book: 
 > I maintain that [consciousness] cannot be solved on the level of present-day science which is still entirely engulfed in the ‘exclusion principle’ – without knowing it – hence the antinomy. To realize this is valuable, but it does not solve the problem. You cannot remove the ‘exclusion principle’ by act of parliament as it were. Scientific attitude would have to be rebuilt, science must be made anew. Care is needed.
 
