@@ -62,9 +62,4 @@ I'll leave you with a longer excerpt from Schrödinger to think about:
 ### Acknowledgements
 
 
-<span>Cover photo by <a href="https://unsplash.com/@milo_contreras?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Camilo Contreras</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-### Footnotes
-
-[^1]: He's also the author of the book "Why Greatness Cannot Be Planned: The Myth of the Objective", where he explains a very interesting theory of innovation. In a nutshell, having goals kills creativity. 
-[^2]: Reflect, for example, on how learning to drive a car, or any other physical task, was in the beginning. At first, your consciousness (and often your vision) is very focused on the detailed physical mechanics (of, say, turning the wheel, pressing the pedals, etc.) needed to perform tasks. After you gain some experience, your mind moves to high-level objectives and ignores the low-level (and now unconscious) mechcanics. For example, you may not think about how you are turning the wheel in the middle of a take-over manouver in a speedway.
+Cover Photo by <a href="https://unsplash.com/@mcbrae?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Braedon McLeod</a> on <a href="https://unsplash.com/s/photos/bubble?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
