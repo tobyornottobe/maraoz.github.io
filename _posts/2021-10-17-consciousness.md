@@ -3,7 +3,7 @@ layout: post
 title:  "【DRAFT】Understanding Consciousness at the Limit"
 draft: true
 ---
-<img class="cover" src="//img/consciousness/cover.jpg">
+<img class="cover" src="/img/consciousness/cover.jpg">
 
 <a href="https://en.wikipedia.org/wiki/Consciousness">Consciousness</a> is probably one of the most commonly misunderstood topics in science today. The prevailing view both in the scientific and tech community is that of materialism: consciousness emerges from brain activity and there's not much mystery to it. That's not surprising: the whole epistemological framework of science relies on leaving subjective interpretations out of its models. 
 For many of us, this explanation is not enough: I find myself in the camp that is looking for a deeper understanding of what makes us conscious. That's why I belive that science needs to evolve to include subjective phenomena in its models. As Schrödinger wrote in his fantastic "What is Life" book: 
