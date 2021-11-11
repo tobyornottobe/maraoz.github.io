@@ -10,7 +10,7 @@ draft: true
 </figure>
 <img class="cover" src="/img/consciousness/cover.jpg">
 
-<a href="https://en.wikipedia.org/wiki/Consciousness">Consciousness</a> is a very hard problem. It has been studied for many centuries and still there seems to be no consensus on a solution, nor on what exactly the problem is. It's probably one of the most commonly misunderstood topics in science today. The prevailing view both in the scientific and tech community is that of materialism: consciousness [emerges from brain activity and it happens automatically](https://youtu.be/luGE5e2_xKM?t=1410). That's not surprising: the whole epistemological framework of science relies on leaving subjective interpretations out of its models. 
+<a href="https://en.wikipedia.org/wiki/Consciousness">Consciousness</a> is a very hard problem. It matters because it's a precondition to everything else: "what does love, science, art, meaning matter, if you're a zombie or in a coma?"([Searle](https://www.youtube.com/watch?v=j_OPQgPIdKg)) It's probably one of the most commonly misunderstood topics in science today. The prevailing view both in the scientific and tech community is that of materialism: consciousness [emerges from brain activity and it happens automatically](https://youtu.be/luGE5e2_xKM?t=1410). That's not surprising: the whole epistemological framework of science relies on leaving subjective interpretations out of its models. 
 For many of us, this explanation is not enough: I find myself in the camp that is looking for a deeper understanding of what makes us conscious. That's why I'm convinced science needs to evolve to include subjective phenomena in its models. As Schrödinger wrote in his fantastic "What is Life" book: 
 > I maintain that [consciousness] cannot be solved on the level of present-day science which is still entirely engulfed in the ‘exclusion principle’ – without knowing it – hence the antinomy. To realize this is valuable, but it does not solve the problem. You cannot remove the ‘exclusion principle’ by act of parliament as it were. Scientific attitude would have to be rebuilt, science must be made anew. Care is needed.
 
@@ -25,13 +25,13 @@ This requires rethinking the way we conduct the scientific method, and redefinin
 ## Focusing only on default human consciousness doesn't seem promising
 In Thomas Khun's classic "The Structure of Scientific Revolutions", he explains how before a change in scientific paraidgm, there's a focus on anomalies. Anomalies are particularly hard to solve puzzles of nature where the outcomes predicted by theory stubbornly differ from observed data. Let us focus on the "anomalies of consciousness" in an effort to shed light on what might be missing in our current understanding. Default human consciousness is boring and unproductive. Let's explore questions that remain open at the fringe:
 
-## Sleep, Dreams and Somnambulism (sleep-walking)
+## Anomaly N: Sleep, Dreams and Somnambulism (sleep-walking)
 Sleep such an interesting phenomena. One of the most striking effects of sleep is the vivid dreams we *all* experience. Some questions a new theory of consiousness must attack: why and how do we lose consciousness while we sleep? Why are we sometimes conscious while sleeping (ie: when we dream)? How do dreams work? How does sleep-waliking work? How can people that sleep-walk perform such complicated tasks like cooking, having conversations, cleaning the house, and even [DRIVING](https://www.psychologytoday.com/us/blog/sleepless-in-america/200812/can-people-drive-while-asleep)? What exactly *can't* a sleep-walker do? what are their limits? Why do we sleep? Why do we ever wake up? Couldn't we just do everything we already do but without consciousness?
 
-## Psychedelics
+## Anomaly N: Psychedelics
 Psychedelics are also known to produce powerful changes in consciousness. Although the mechanisms of these drugs are not entirely understood, many people report profound spiritual experiences after using them. What are the mechanisms of psychedelics? How exactly do they change the quality of our subjective experience? What mechanism causes specific hallucinations to appear? How do specific neurotransmiters and psychoactive compounds generate each effect?  A complete theory of conciouness must explain how consciousness is affected by these drugs.
 
-## Attention and Meditation
+## Anomaly N: Attention and Meditation
 Meditation is an interesting phenomena that has been practiced for several millenia by millions of people around the world. It's also interesting because it's an anomaly. The goal of meditation is to improve concentration and to achieve a higher level of consciousness. It's not clear though how this is achieved, but many people who practiice meditation regularly report that it increases their consciousness of emotion, feelings, and thoughts.
 
 > There is substantial evidence that we can only remember items from the sensory world that were attended (i.e., that were a focus of conscious awareness; Penfield, 1958). Although unattended items may be processed in some form to allow their characterization as uninteresting targets for attention, through what is known as pre-attentive processing (Neisser, 1967), such items do not reach the site of accessible memory. Only attended items can be recalled from memory. It therefore seems that consciousness may represent the gateway to memory. While not all items that reach consciousness may be remembered, it seems to be the case that all items that are remembered must have reached consciousness.
@@ -39,14 +39,14 @@ Although consciousness is thus a sine qua non for laying down the memory for an 
 
 Christopher W. Tyler, ["Ten Testable Properties of Consciousness"](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01144/full)
 
-## Curiosity, Intelligence and Compression
+## Anomaly N: Curiosity, Intelligence and Compression
 > Consider the following thought experiment. You are a biochemist with the misfortune to have been born with a genetic defect that disables the blue receptors in your retinas. Consequently you have a form of colour blindness in which you are able to see only red and green, and mixtures of the two such as yellow, but anything purely blue also looks to you like one of those mixtures. Then you discover a cure that will cause your blue receptors to start working. Before administering the cure to yourself, you can confidently make certain predictions about what will happen if it works. One of them is that, when you hold up a blue card as a test, you will see a colour that you have never seen before. You can predict that you will call it ‘blue’, because you already know what the colour of the card is called (and can already check which colour it is with a spectrophotometer). You can also predict that when you first see a clear daytime sky after being cured you will experience a similar quale to that of seeing the blue card. But there is one thing that neither you nor anyone else could predict about the outcome of this experiment, and that is: what blue will look like. Qualia are currently neither describable nor predictable – a unique property that should make them deeply problematic to anyone with a scientific world view (though, in the event, it seems to be mainly philosophers who worry about it). I consider this exciting evidence that there is a fundamental discovery to be made which will integrate things like qualia into our other knowledge.
 
 David Deutsch, "The Beginning of Infinity: Explanations That Transform the World"
 
-## Volition (free will) and the sense of self
+## Anomaly N: Volition (free will) and the sense of self
 
-## Learning
+## Anomaly N: Learning
 > Any succession of events in which we take part with sensations, perceptions and possibly with actions gradually drops out of the domain of consciousness when the same string of events repeats itself in the same way very often. 
 
 Schrödinger, "What is Life?"
