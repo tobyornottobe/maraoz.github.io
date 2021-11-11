@@ -76,3 +76,6 @@ I'll leave you with a longer excerpt from Schrödinger to think about:
 
 
 Cover Photo by <a href="https://unsplash.com/@mcbrae?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Braedon McLeod</a> on <a href="https://unsplash.com/s/photos/bubble?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+### Comments and Discussion
+[Discuss on HN (soon)]() — [Discuss on Reddit (soon)]() — [Email a private comment](mailto:consciousness@maraoz.com)
