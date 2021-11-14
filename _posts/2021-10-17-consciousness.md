@@ -69,6 +69,7 @@ I'll leave you with a longer excerpt from Schrödinger to think about:
 - [David Deutsch's "The Beginning of Infinity"](https://www.goodreads.com/book/show/12187787-the-beginning-of-infinity).
 - [Christof Koch's talk on The Future of Consciousness](https://www.youtube.com/watch?v=luGE5e2_xKM&list=PL55XqDjybyL_8NWo9WDUrGoAQP619PFLg&index=35).
 - [Psychonetics: a nerd's toolset to work with mind and perception](http://deconcentration-of-attention.com/psychonetics.html).
+- ["The brain is our last frontier" talk by Heather Berlin](https://www.youtube.com/watch?v=NdKEy6vcCMw)
 
 
 
