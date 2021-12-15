@@ -15,7 +15,7 @@ HOWEVER, I recently came across an alternative which I really liked:
 
 It's more precise, unambiguous, complete, and it sounds less like a buzzword. A computational contract is a contract that is defined, enforced, and/or executed computationally. That's it! Clear and simple. 
 
-I know it's probably too late to change how everyone calls ~smart~ computational contracts, but I had to try. 
+I know it's probably too late to change how everyone calls <s>smart</s> computational contracts, but I had to try. 
 
 ### Acknowledgements
 I first heard "computational contracts" in [Lex Fridman's interview with Stephen Wolfram](https://www.youtube.com/watch?v=4-SGpEInX_c). 
