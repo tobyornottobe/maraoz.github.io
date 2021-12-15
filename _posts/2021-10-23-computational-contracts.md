@@ -13,7 +13,7 @@ I've been studying and working with [smart contracts](https://en.wikipedia.org/w
 HOWEVER, I recently came across an alternative which I really, really liked:  
 ✨**computational contracts**✨.
 
-It's more precise, unambiguous, complete, and it sounds less like a buzzword. A computational contract is a contract that is defined, enforced, and/or executed computationally. That's it! Clear and simple. 
+It's more precise, unambiguous, complete, and it sounds less like a horrible marketing buzzword. A computational contract is a contract that is defined, enforced, and/or executed computationally. That's it! Clear and simple. 
 
 I know it's probably too late to change how everyone calls <s>smart contracts</s> computational contracts, but I had to try. 
 
