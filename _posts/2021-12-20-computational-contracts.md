@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Computational Contracts"
-draft: true
+draft: false
 ---
 <figure>
   <figcaption style="text-align: left">
