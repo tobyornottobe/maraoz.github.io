@@ -222,7 +222,7 @@ blockquote p {
 }
 
 .book {
-  max-height: 2rem;
+  max-height: 10rem;
 }
 
 .badge {
