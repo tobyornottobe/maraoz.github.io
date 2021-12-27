@@ -239,7 +239,6 @@ blockquote p {
 .badge:hover {
   color: #ffffff;
   text-decoration: none;
-  cursor: pointer;
 }
 .badge-error {
   background-color: #b94a48;
