@@ -13,6 +13,14 @@ Techniques:
 - ublock for tailoring the web
 - archive all for messaging
 
+suggested by gpt3:
+-Turn off notifications for social media and email
+-Set specific times to check email and social media
+-Designate chunks of time for specific tasks, such as 30 minutes for email and 30 minutes for social media
+-Use a timer to stay on track
+-Take breaks often, even if it's just for a few minutes
+-Disconnect from the internet altogether for periods of time
+
 <div style="text-align: center">
 	<iframe style="display:block;" src="https://maraoz.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 </div>
