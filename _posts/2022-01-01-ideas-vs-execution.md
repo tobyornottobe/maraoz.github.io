@@ -5,7 +5,7 @@ draft: true
 ---
 <figure>
   <figcaption style="text-align: left">
-  Summary: My take on the ideas vs execution dilemma.
+  Summary: Don't buy the "Ideas are cheap, execution is everything" mantra too much
   </figcaption>
 </figure>
 
