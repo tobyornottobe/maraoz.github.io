@@ -20,7 +20,7 @@ I don't think it's good advice for people starting a company to start executing 
 Let's first define 'idea'. In this context, a startup idea is a rough plan or vision of what you want to build and why that's cool. It's a hypothesis about a problem that people have, and how you can solve it. It's a story you tell yourself and others, to explain what you're doing and why.
 
 The problem I have with "ideas are cheap, execution is everything" is that there's a hidden relation between good execution and good ideas, because:
-- It's much harder to execute on bad idea than on a good idea, because they are less defined, clear, and exciting. 
+- It's much harder to execute on bad idea than on a good idea, because they are less defined, clear, and exciting.  
 - It's easier to lose motivation if your idea is bad. It's easier to work on a great idea for years.
 - It's easier to sell a good idea to potential partners/cofounders.
 - It's *very* hard to hire people if your idea sucks.
