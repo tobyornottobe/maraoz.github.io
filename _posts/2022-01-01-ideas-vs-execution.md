@@ -32,7 +32,7 @@ In other words, a good idea is actually a prerequisite for executing well.
 So, what is ✨**a *good* idea**✨?
 A good idea is one that scratches your own itch. It's often a question that appears in your mind when you're deep into exploring some obscure knowledge. It's not a remix of what everyone's talking about, or related the hot topic in your industry, or something that makes you get attention at a party. Good startup ideas are not well understood by most other people. 
 
-I also like this definition by David Lynch: 
+I also like this suggestion by David Lynch: 
 > Ideas are like fish. If you want to catch little fish, you can stay in the shallow water. But if you want to catch the big fish, you’ve got to go deeper. Down deep, the fish are more powerful and more pure. They’re huge and abstract. And they’re very beautiful.
 
 My interpretation is: surround yourself with interesting people. Dive deep into weird topics that interest you. Follow your curiosity. Be okay with being misunderstood. That's where good ideas come from.
