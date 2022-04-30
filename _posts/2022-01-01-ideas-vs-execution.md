@@ -29,7 +29,7 @@ The problem I have with "ideas are cheap, execution is everything" is that there
 In other words, a good idea is actually a prerequisite for executing well.
 
 # What defines a good idea?
-So, what is ✨**a *good* idea**✨?
+So, what is ✨**a *good* idea**✨?  
 A good idea is one that scratches your own itch. It's often a question that appears in your mind when you're deep into exploring some obscure knowledge. It's not a remix of what everyone's talking about, or related the hot topic in your industry, or something that makes you get attention at a party. Good startup ideas are not well understood by most other people. 
 
 I also like this suggestion by David Lynch: 
