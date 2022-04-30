@@ -11,9 +11,6 @@ draft: true
 
 <img class="cover" src="/img/ideas-vs-execution/cover.jpg">
 
-> An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.
-> Leo DiCaprio, Inception
-
 "Ideas are cheap, execution is everything" is a common adage in the startup community. This means roughly: anyone can have good ideas, but unless you actually put in the work, they are worthless. You need to sit your ass, work hard on some idea, pivot many times, until something works. And that will probably be something completely different to your original idea. I've preached this many times, both internally in my own teams, and to friends looking to start new projects.
 
 However, I recently revised my position. I think chosing a good idea is crucial to build a successful startup. And I don't mean this in a romantic sense, but in a very practical one.
