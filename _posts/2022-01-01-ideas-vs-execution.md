@@ -26,7 +26,7 @@ The problem I have with "ideas are cheap, execution is everything" is that there
 - It's *very* hard to hire people if your idea sucks.
 - It's hard to raise capital if your idea is bad.
 
-In other words, a good idea is a prerequisite for executing well.
+In other words, a good idea is actually a prerequisite for executing well.
 
 # What defines a good idea?
 So, what is ✨**a *good* idea**✨?
