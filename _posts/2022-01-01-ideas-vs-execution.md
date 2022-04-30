@@ -16,7 +16,7 @@ draft: true
 However, I recently revised my position. I think chosing a good idea is crucial to build a successful startup. And I don't mean this in a romantic sense, but in a very practical one.
 I don't think it's good advice for people starting a company to start executing on some random idea just because "execution is everything".
 
-# Why ideas matter a lot 
+# Ideas do have value
 Let's first define 'idea'. In this context, a startup idea is a rough plan or vision of what you want to build and why that's cool. It's a hypothesis about a problem that people have, and how you can solve it. It's a story you tell yourself and others, to explain what you're doing and why.
 
 The problem I have with "ideas are cheap, execution is everything" is that there's a hidden relation between good execution and good ideas, because:
