@@ -28,18 +28,18 @@ How can Decentraland become the de-facto standard for an open metaverse? I think
 2) Developer-friendliness  
 3) Cozyness  
 
-## How we improve accessibility
+## 1. How we improve accessibility
 Decentraland is currently too hard and/or expensive to use. If we're going to beat other metaverses, we need to make it very simple to get started. I imagine a 12-year-old kid building their house in Decentraland and inviting their friends to see what they built. Later, they dress up their avatars and go exploring the public lands. If they can't do that in Decentraland easily and for free, they will build it in Facebookverse and get ads everywhere (yuck). How can we make this happen?
-### Private Lands
+### 1.1 Private Lands
 First, we need to enable private lands. This means the ability to create a 3d scene and share it only with whomever we want. I envison something very similar to today's [builder](https://builder.decentraland.org/), but with the ability to generate a shareable link to inhabit the scene with friends. This will allow people to get started in Decentraland for free, and it's step 1 in making it (economically) accessible. Having to buy a LAND for $7k USD or more to start creating playable content for Decentraland makes no sense. 
-### New Public Land Issuance
+### 1.2 New Public Land Issuance
 Aside from enabling private lands and content, we need to increase the pool of public lands. The original map of 301x301 parcels was great to bootstrap the project by generating LAND scarcity, but it's already too small for our community. What's worse, many LANDs are in the hands of speculators who will never deploy content to the world. My proposed solution? Continuous LAND issuance. Every day, or every week, the protocol can auction a new LAND, and the highest bidder can spawn a new LAND at any coordinate adjacent to an already existing one. If nobody wants to bid, no LAND is created that period. Believe it or not, this was the original scheme for LAND issuance, and how the first testnet worked. Yes, this would reduce prices for already existing LANDs, but... if only whales can buy LANDs, other metaverses will kill Decentraland and your LAND will be worthless. Let's make Genesis City the first of many cities in Decentraland!
 
-## How we improve developer-friendliness
+## 2. How we improve developer-friendliness
 Decentraland as a platform is *way* more powerful than most users know. Decentraland's main differentiator is that it's an open-source protocol, which means anyone can build on it without asking for permission. Both at the smart contract level, the Decentraland Nodes (called catalysts), the SDK, the client, and scene content, the Decentraland Foundation is still too much of a central coordinator. Developers need to understand each component separately to hack cool stuff with them without contacting the Foundation. At the moment, it's hard to see the difference between the protocol, the nodes, and the client. Everything gets mixed up as a blurry "Decentraland". I guess most users don't even know that the content deployed on each LAND is determined by its owner, not by the "company" behind Decentraland.
 Some ideas on how to improve this:
 
-### Fully document components and APIs
+### 2.1 Fully document components and APIs
 A huge developer pain point to solve is that it's very hard build stuff for Decentraland, at all levels of the protocol. Current [docs](https://docs.decentraland.org/) are very stylish, but far from high quality, organized or up to date. Some critical infrastructure docs (like the catalyst API) are on [hard to find sites](https://decentraland.github.io/catalyst-api-specs/#tag/Content-Server). All components of the protocol must be assessed, explained, and documented. Tutorials can be written on each component, and example apps should be maintained. Examples of some random ideas:
 - a LAND liquidity protocol that issues a "liquidLAND" ERC20 when you deposit LANDs according to some function of the coordinates (eg: [2^(-abs(x)/300)+2^(-abs(y)/300)](https://www.wolframalpha.com/input?i=2%5E%28-abs%28x%29%2F300%29%2B2%5E%28-abs%28y%29%2F300%29)), and which allows you to withdraw LANDs for "liquidLAND" too.
 - an alternative client which reads the data from IPFS and renders it differently (eg: [isometric view](https://www.youtube.com/watch?v=U6rGeAuPcno), or 2D)
@@ -48,19 +48,23 @@ A huge developer pain point to solve is that it's very hard build stuff for Dece
 
 All of this is possible today... but it's very hard to achieve without asking the Foundation for help. Technical know-how is buried deep in Discord and GitHub.
 
-### Ecosystem Development Fund
+### 2.2 Ecosystem Development Fund
 Many crypto projects have these, so I don't need to say much here. An Ecosystem Fund should be an independent team which helps value-add projects financially. Some examples: developing alternative clients, onboarding brands to build content for Decentraland, events like TEDxDecentraland, etc. Funding should not be a problem, as the DAO can easily provide the money for this for years.
 
 
-## How we improve cozyness
+## 3. How we improve cozyness
 Some of the best digital experiences I had as a gamer are related to spending time with friends in virtual worlds. Decentraland currently feels a whirlwind of one-off events. Come get this POAP, this exclusive NFT drop, or this 1-week event. I get it, that's what drives engagement today. But remember we're thinking 5 years from now. To make this last, we need something that compounds over time. This means allowing everyone to create and invest time into their own place. This will make the whole world amazing to explore too. Today, Decentraland is frantic and exciting. We need to make it cozy. Some ideas I have here:
 
-### House building
-The protocol is expressive enough for house-building. However, [the builder](https://builder.decentraland.org/) has lots of UX problems (whoever used it for more than 2 hours can attest), and [the SDK](https://docs.decentraland.org/development-guide/SDK-101/) is too hard to use. Why not fund 3 teams to develop new in-game builders imitating what already works (eg: sims-like building with walls and objects, minecraft-like with blocks you place from inside the game, etc).
+### 3.1 House building
+The protocol is expressive enough for house-building. However, [the builder](https://builder.decentraland.org/) has lots of UX problems (whoever used it for more than 2 hours can attest), and [the SDK](https://docs.decentraland.org/development-guide/SDK-101/) is too hard to use. Why not fund 3 teams to develop new in-game builders imitating what already works (eg: sims-like building with walls and objects, minecraft-like with blocks you place from inside the game, etc). Remember, the goal is to enable 12-year-olds to enjoy building stuff inside Decentraland, [not to allow crypto-millionaires to wear their Bored Ape as a wearable](https://governance.decentraland.org/proposal/?id=5534b120-b786-11ec-903a-6546e8793cef) 🤦‍♂️.
 
-### Social interactions
+### 3.2 Social interactions
 Chat is clunky. Voice chat is creepy. Emotes are not enough. We really need to polish social interactions if we expect people to spend more than 10 minutes inside Decentraland. My take here is that voice chat should be removed. People already use Discord or other apps to voice chat while gaming. In-game chat should stay and work flawlessly. New NFT emotes are promising, but we also need stuff to do with friends, like having a beer together, playing a game of chess, shooting each other, or riding motorcycles like in Snow Crash. If these are too hard to implement in the official client, they should be implemented as alt clients!
 
+# Summary and Final Words 
+In summary, I propose to make the following roadmap for the next 5 years:
+
+Liked what you read? Subscribe!
 <div style="text-align: center">
 	<iframe style="display:block;" src="https://maraoz.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 </div>
