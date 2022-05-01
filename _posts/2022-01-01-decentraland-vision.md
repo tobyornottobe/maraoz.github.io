@@ -53,12 +53,13 @@ Many crypto projects have these, so I don't need to say much here. An Ecosystem 
 
 
 ## How we improve cozyness
-Some of the best digital experiences I had as a gamer are related to spending time with friends in virtual worlds. Decentraland currently feels a whirlwind of one-off events. Come get this POAP, this exclusive NFT drop, or this 1-week event. I get it, that's what drives engagement today. But remember we're thinking 5 years from now. To make this last, we need something that compounds over time. This means allowing everyone to create and invest time into their own place. Today, Decentraland is frantic and exciting. We need to make it cozy.
+Some of the best digital experiences I had as a gamer are related to spending time with friends in virtual worlds. Decentraland currently feels a whirlwind of one-off events. Come get this POAP, this exclusive NFT drop, or this 1-week event. I get it, that's what drives engagement today. But remember we're thinking 5 years from now. To make this last, we need something that compounds over time. This means allowing everyone to create and invest time into their own place. This will make the whole world amazing to explore too. Today, Decentraland is frantic and exciting. We need to make it cozy. Some ideas I have here:
 
-- 14 y/o house building
-- social interactions
-- adventures and things to do globally, not NFT 1-time events
+### House building
+The protocol is expressive enough for house-building. However, [the builder](https://builder.decentraland.org/) has lots of UX problems (whoever used it for more than 2 hours can attest), and [the SDK](https://docs.decentraland.org/development-guide/SDK-101/) is too hard to use. Why not fund 3 teams to develop new in-game builders imitating what already works (eg: sims-like building with walls and objects, minecraft-like with blocks you place from inside the game, etc).
 
+### Social interactions
+Chat is clunky. Voice chat is creepy. Emotes are not enough. We really need to polish social interactions if we expect people to spend more than 10 minutes inside Decentraland. My take here is that voice chat should be removed. People already use Discord or other apps to voice chat while gaming. In-game chat should stay and work flawlessly. New NFT emotes are promising, but we also need stuff to do with friends, like having a beer together, playing a game of chess, shooting each other, or riding motorcycles like in Snow Crash. If these are too hard to implement in the official client, they should be implemented as alt clients!
 
 <div style="text-align: center">
 	<iframe style="display:block;" src="https://maraoz.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
@@ -67,6 +68,8 @@ Some of the best digital experiences I had as a gamer are related to spending ti
 ### Additional Resources and Learning
 - [Decentraland's website](https://decentraland.org/)
 - [Decentraland's DAO](https://governance.decentraland.org/)
+- [Decentraland's builder](https://builder.decentraland.org/)
+- [Decentraland's SDK](https://docs.decentraland.org/development-guide/SDK-101/)
 - [Genesis city map](https://genesis.city/)
 
 ### Acknowledgements
