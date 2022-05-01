@@ -18,7 +18,7 @@ After leaving the project to focus on OpenZeppelin back in 2017, I've been amaze
 
 I also realized that my best contribution to the project was probably not going to be related to execution (funding or building projects, voting in the DAO, creating content), but to strategy and vision (as I contributed in the beginning). I hope the sheer amount of years I spent thinking about Decentraland give me some authority, or at least an audience. The following are my personal views (again, I'm not part of the Decentraland Foundation). I'll be candid and straightforward, tackling the platform's main problems head on. Some ideas are mine. Some ideas are spoken in hushed tones among Decentraland community members, afraid to risk proposing crazy stuff. I hope that sharing my vision sparks strategic discussions and inspires our community to take Decentraland to the next level.
 
-## The Open Metaverse
+# The Open Metaverse
 
 So, how does Decentraland look like in 2027, five years from now? To me, it has become **the open metaverse**. The free (as in "free speech", not "free beer"), community-owned alternative to [whatever companies such as Meta create](https://maraoz.com/img/decentraland-vision/you-zuck.jpg). I always thought of Decentraland as a VR-browser. Today, most people use Google Chrome, Safari, or Edge to browse the web. However, open source and free alternatives such as Firefox and Brave are there, for those of us who value freedom, tech sovereignty, and open standards. 
 
