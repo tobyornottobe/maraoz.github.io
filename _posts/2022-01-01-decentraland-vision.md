@@ -12,7 +12,7 @@ draft: true
 
 As some of you may know, I've been involved in the early days of [Decentraland](https://decentraland.org/). I participated in creating the first prototypes between 2015 and 2017. Back then, Decentraland's testnet ran as [a fork of bitcoin](https://github.com/decentraland/bronzeage-node/commit/7a5245e8434558d298d07d0dd2bd9862ca3af408), and fully in the browser. Crazy times. I also contributed in naming the project and defining the vision: to build a decentralized and open virtual reality world. I took little part in actually executing on that vision: the credit there goes to [Esteban](https://twitter.com/eordano), [Ari](https://twitter.com/arimeilich), and the amazing Decentraland team. 
 
-Today, almost 7 years later, I believe we can say that original vision from 2015 was achieved. Neal Stephenson should be [proud of us](https://images.gr-assets.com/authors/1430920344p8/545.jpg). Decentraland today truly is open, decentralized, and it's an increasingly amazing shared 3d virtual world. 
+Today, almost 7 years later, I believe we can say that original vision from 2015 was achieved. Neal Stephenson should be [proud of us](https://images.gr-assets.com/authors/1430920344p8/545.jpg) (?). Decentraland today truly is open, decentralized, and it's an increasingly amazing shared 3d virtual world. 
 
 After leaving the project to focus on OpenZeppelin back in 2017, I've been amazed by evolution. In the past years, I've rejoined the Decentraland community, participating in [its DAO](https://governance.decentraland.org/), building some [content](https://play.decentraland.org/?position=52,90) and [tools](https://genesis.city/). I was ecstatic to realize the original vision was achieved. 
 
