@@ -41,7 +41,7 @@ Some ideas on how to improve this:
 
 ### Fully document components and APIs
 A huge developer pain point to solve is that it's very hard build stuff for Decentraland, at all levels of the protocol. Current [docs](https://docs.decentraland.org/) are very stylish, but far from high quality, organized or up to date. Some critical infrastructure docs (like the catalyst API) are on [hard to find sites](https://decentraland.github.io/catalyst-api-specs/#tag/Content-Server). All components of the protocol must be assessed, explained, and documented. Tutorials can be written on each component, and example apps should be maintained. Examples of some random ideas:
-- a LAND liquidity protocol that issues a "liquidLAND" ERC20 when you deposit LANDs according to some function of the coordinates (eg: [2^(-abs(x)/300)+2^(-abs(y)/300)](https://www.wolframalpha.com/input?i=2%5E%28-abs%28x%29%2F300%29%2B2%5E%28-abs%28y%29%2F300%29))
+- a LAND liquidity protocol that issues a "liquidLAND" ERC20 when you deposit LANDs according to some function of the coordinates (eg: [2^(-abs(x)/300)+2^(-abs(y)/300)](https://www.wolframalpha.com/input?i=2%5E%28-abs%28x%29%2F300%29%2B2%5E%28-abs%28y%29%2F300%29)), and which allows you to withdraw LANDs for "liquidLAND" too.
 - an alternative client which reads the data from IPFS and renders it differently (eg: [isometric view](https://www.youtube.com/watch?v=U6rGeAuPcno), or 2D)
 - a bot that tweets every time a new scene is uploaded to coordinate (x, y)
 
