@@ -29,7 +29,7 @@ How can Decentraland become the de-facto standard for an open metaverse? I think
 3) Cozyness  
 
 ## How we improve Decentraland's Accessibility
-Decentraland is too hard and/or expensive to use. If we're going to beat other metaverses, we need to make it very simple to get started. I imagine a 12-year-old kid building their house in Decentraland and inviting their friends to see what they built. Later, they dress up their avatars and go exploring the public lands. If they can't do that in Decentraland easily and for free, they will build it in Facebookverse and get ads (yuck).
+Decentraland is currently too hard and/or expensive to use. If we're going to beat other metaverses, we need to make it very simple to get started. I imagine a 12-year-old kid building their house in Decentraland and inviting their friends to see what they built. Later, they dress up their avatars and go exploring the public lands. If they can't do that in Decentraland easily and for free, they will build it in Facebookverse and get ads everywhere (yuck). How can we make this happen?
 ### Private Lands
 First, we need to enable private lands. This means the ability to create a 3d scene and share it only with whomever we want. I envison something very similar to today's [builder](https://builder.decentraland.org/), but with the ability to generate a shareable link to inhabit the scene with friends. This will allow people to get started in Decentraland for free, and it's step 1 in making it (economically) accessible. Having to buy a LAND for $7k USD or more to start creating playable content for Decentraland makes no sense. 
 ### More Public Lands
