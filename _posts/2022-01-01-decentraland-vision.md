@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "A Vision for Decentraland's next 5 years"
+title:  "A vision for Decentraland's next 5 years"
 draft: true
 ---
 <figure>
   <figcaption style="text-align: left">
-  Summary: I share my personal vision for Decentraland's next 5 years.
+  Summary: I share my vision for Decentraland's next 5 years.
   </figcaption>
 </figure>
 <img class="cover" src="/img/decentraland-vision/cover.jpg">
