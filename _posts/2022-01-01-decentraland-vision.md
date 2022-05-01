@@ -35,7 +35,7 @@ First, we need to enable private lands. This means the ability to create a 3d sc
 ### New Public Land Issuance
 Aside from enabling private lands and content, we need to increase the pool of public lands. The original map of 301x301 parcels was great to bootstrap the project by generating LAND scarcity, but it's already too small for our community. What's worse, many LANDs are in the hands of speculators who will never deploy content to the world. My proposed solution? Continuous LAND issuance. Every day, or every week, the protocol can auction a new LAND, and the highest bidder can spawn a new LAND at any coordinate adjacent to an already existing one. If nobody wants to bid, no LAND is created that period. Believe it or not, this was the original scheme for LAND issuance, and how the first testnet worked. Yes, this would reduce prices for already existing LANDs, but... if only whales can buy LANDs, other metaverses will kill Decentraland and your LAND will be worthless. Let's make Genesis City the first of many cities in Decentraland!
 
-## How we improve Decentraland's Developer-friendliness
+## How we improve developer-friendliness
 Decentraland as a platform is *way* more powerful than most users know. Decentraland's main differentiator is that it's an open-source protocol, which means anyone can build on it without asking for permission. Both at the smart contract level, the Decentraland Nodes (called catalysts), the SDK, the client, and scene content, the Decentraland Foundation is still too much of a central coordinator. Developers need to understand each component separately to hack cool stuff with them without contacting the Foundation. At the moment, it's hard to see the difference between the protocol, the nodes, and the client. Everything gets mixed up as a blurry "Decentraland". I guess most users don't even know that the content deployed on each LAND is determined by its owner, not by the "company" behind Decentraland.
 Some ideas on how to improve this:
 
@@ -44,18 +44,17 @@ A huge developer pain point to solve is that it's very hard build stuff for Dece
 - a LAND liquidity protocol that issues a "liquidLAND" ERC20 when you deposit LANDs according to some function of the coordinates (eg: [2^(-abs(x)/300)+2^(-abs(y)/300)](https://www.wolframalpha.com/input?i=2%5E%28-abs%28x%29%2F300%29%2B2%5E%28-abs%28y%29%2F300%29)), and which allows you to withdraw LANDs for "liquidLAND" too.
 - an alternative client which reads the data from IPFS and renders it differently (eg: [isometric view](https://www.youtube.com/watch?v=U6rGeAuPcno), or 2D)
 - a bot that tweets every time a new scene is uploaded to coordinate (x, y)
+- a "layer 2" game over Decentraland where LAND owners can deploy pre-determined farm, mine, or forest scenes which generate FOOD, STONE and WOOD ERC20 tokens. These can in turn be used to craft wearables. An "age of empires" over Decentraland.
 
+All of this is possible today... but it's very hard to achieve without asking the Foundation for help. Technical know-how is buried deep in Discord and GitHub.
 
 ### Ecosystem Development Fund
-Many crypto projects have these, so I don't need to say much here. An Ecosystem Fund should be an independent team which helps projects financially which add value to Decentraland. Some examples: developing alternative clients, onboarding brands to build content for Decentraland, etc. Funding should not be a problem, as the DAO can easily provide the money for this for years.
+Many crypto projects have these, so I don't need to say much here. An Ecosystem Fund should be an independent team which helps value-add projects financially. Some examples: developing alternative clients, onboarding brands to build content for Decentraland, events like TEDxDecentraland, etc. Funding should not be a problem, as the DAO can easily provide the money for this for years.
 
 
-- build more official tutorials
-	- how to run a node
-	- how to build dynamic scene content
+## How we improve cozyness
+Some of the best digital experiences I had as a gamer are related to spending time with friends in virtual worlds. Decentraland currently feels a whirlwind of one-off events. Come get this POAP, this exclusive NFT drop, or this 1-week event. I get it, that's what drives engagement today. But remember we're thinking 5 years from now. To make this last, we need something that compounds over time. This means allowing everyone to create and invest time into their own place. Today, Decentraland is frantic and exciting. We need to make it cozy.
 
-
-## How we improve Decentraland's Cozyness
 - 14 y/o house building
 - social interactions
 - adventures and things to do globally, not NFT 1-time events
