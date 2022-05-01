@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A vision for Decentraland's next 5 years"
+title:  "[DRAFT] A vision for Decentraland's next 5 years"
 draft: true
 ---
 <figure>
