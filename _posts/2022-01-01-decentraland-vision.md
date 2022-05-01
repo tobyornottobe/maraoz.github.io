@@ -22,7 +22,7 @@ I also realized that my best contribution to the project was probably not going 
 
 So, how does Decentraland look like in 2027, five years from now? To me, it has become **the open metaverse**. The free (as in "free speech", not "free beer"), community-owned alternative to [whatever companies such as Meta create](https://maraoz.com/img/decentraland-vision/you-zuck.jpg). I always thought of Decentraland as a VR-browser. Today, most people use Google Chrome, Safari, or Edge to browse the web. However, open source and free alternatives such as Firefox and Brave are there, for those of us who value freedom, tech sovereignty, and open standards. 
 
-How can Decentraland become the de-facto standard for an open metaverse? I think we need to improve the following three things, in order of importance:
+How can Decentraland become the de-facto standard for an open metaverse? I think we need to improve the following three things, in order of importance:  
 1) Accessibility  
 2) Developer-friendliness  
 3) Cozyness  
