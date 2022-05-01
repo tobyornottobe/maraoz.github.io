@@ -23,17 +23,17 @@ I also realized that my best contribution to the project was probably not going 
 So, how does Decentraland look like in 2027, five years from now? To me, it has become **the open metaverse**. The free (as in "free speech", not "free beer"), community-owned alternative to [whatever companies such as Meta create](https://maraoz.com/img/decentraland-vision/you-zuck.jpg). I always thought of Decentraland as a VR-browser. Today, most people use Google Chrome, Safari, or Edge to browse the web. However, open source and free alternatives such as Firefox and Brave are there, for those of us who value freedom, tech sovereignty, and open standards. 
 
 How can Decentraland become the de-facto standard for an open metaverse? I think we need to improve the following three things, in order of importance:  
+
 1) Accessibility  
 2) Developer-friendliness  
 3) Cozyness  
 
 ## How we improve Decentraland's Accessibility
-Decentraland is too hard and/or expensive to use. If we're going to beat other metaverses, 
-### Private lands
-First, 
-- public land accessibility
-- continuous land issuance
-- genesis city -> first city of many?
+Decentraland is too hard and/or expensive to use. If we're going to beat other metaverses, we need to make it very simple to get started. I imagine a 12-year-old kid building their house in Decentraland and inviting their friends to see what they built. Later, they dress up their avatars and go exploring the public lands. If they can't do that in Decentraland easily and for free, they will build it in Facebookverse and get ads (yuck).
+### Private Lands
+First, we need to enable private lands. This means the ability to create a 3d scene and share it only with whomever we want. I envison something very similar to today's [builder](https://builder.decentraland.org/), but with the ability to generate a shareable link to inhabit the scene with friends. This will allow people to get started in Decentraland for free, and it's step 1 in making it (economically) accessible. Having to buy a LAND for $7k USD or more to start creating playable content for Decentraland makes no sense. 
+### More Public Lands
+Aside from enabling private lands and content, we need to increase the pool of public lands. The original map of 301x301 parcels was great to bootstrap the project, but it's already too small for our community. What's worse, many LANDs are in the hands of speculators who will never deploy content to the world. My proposed solution? Continuous LAND issuance. Every day, or every week, the protocol can auction a new LAND, and the highest bidder can spawn a new LAND at any coordinate adjacent to an already existing one. Believe it or not, this was the original scheme for LAND issuance, and how the first testnet worked. Yes, this would reduce prices for already existing LANDs, but... if only whales can buy LANDs, other metaverses will kill Decentraland and your LAND will be worthless. Let's make Genesis City the first of many cities in Decentraland!
 
 ## How we improve Decentraland's Developer-friendliness
 - ecosystem development fund
