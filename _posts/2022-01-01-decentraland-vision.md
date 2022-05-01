@@ -62,7 +62,7 @@ The protocol is expressive enough for house-building. However, [the builder](htt
 Chat is clunky. Voice chat is creepy. Emotes are not enough. We really need to polish social interactions if we expect people to spend more than 10 minutes inside Decentraland. My take here is that voice chat should be removed. People already use Discord or other apps to voice chat while gaming. In-game chat should stay and work flawlessly. New NFT emotes are promising, but we also need stuff to do with friends, like having a beer together, playing a game of chess, shooting each other, or riding motorcycles like in Snow Crash. If these are too hard to implement in the official client, they should be implemented as alt clients!
 
 # Summary and Final Words 
-In summary, I propose to make the following roadmap for the next 5 years:
+In summary, I propose to make the following vision for the next 5 years: an accessible, developer friendly, and cozy platform. Lots of different teams working at different layers of the protocol. This is the only way I see Decentraland being resilient enough to survive and thrive for years, once big tech players enter the space. Let's beat them! The metaverse must remain free, open, global, and sovereign.
 
 Liked what you read? Subscribe!
 <div style="text-align: center">
