@@ -15,8 +15,15 @@ I also realized that my best contribution to the project was probably not going 
 
 The following are my personal views (again, I'm not part of the Decentraland Foundation). I'll be candid and straightforward, tackling the platform's main problems head on. Some ideas are mine. Some ideas are spoken in hushed tones among Decentraland community members, afraid to risk proposing crazy stuff. I hope that sharing my vision sparks strategic discussions and inspires our community to take Decentraland to the next level.
 
-<img class="post-img" src="/img/decentraland-vision/evolution.jpg">
 
+<figure>
+  <a href="/img/decentraland-vision/evolution.jpg" target="_blank">
+		<img class="cover" src="/img/decentraland-vision/evolution.jpg">
+	</a>
+  <figcaption>
+    Genesis city map evolution over the last 3 years. (click to zoom in)
+  </figcaption>
+</figure>
 # The Open Metaverse
 
 So, how does Decentraland look like in 2027, five years from now? To me, it has become **the open metaverse**. What does open mean? Open means the the free (as in "free speech", not "free beer"), open-source, community-owned alternative to [whatever companies such as Meta create](https://maraoz.com/img/decentraland-vision/you-zuck.jpg). I always thought of Decentraland as a VR-browser. Today, most people use Google Chrome, Safari, or Edge to browse the web. However, open source and free alternatives such as Firefox and Brave are there, for those of us who value freedom, tech sovereignty, and open standards. 
