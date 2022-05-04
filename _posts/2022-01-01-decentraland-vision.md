@@ -13,7 +13,7 @@ After leaving the project to focus on OpenZeppelin back in 2017, I've been amaze
 
 I also realized that my best contribution to the project was probably not going to be related to execution (funding or building projects, voting in the DAO, creating content), but to strategy and vision (as I had contributed in the beginning). I hope the sheer amount of years I've spent thinking about Decentraland give me some authority, or at least an audience.  
 
-The following are my personal views (again, I'm not part of the Decentraland Foundation). I'll be candid and straightforward, tackling the platform's main problems head on. Some ideas are mine. Some ideas are spoken in hushed tones among Decentraland community members, afraid to risk proposing crazy stuff. I hope that sharing my vision sparks strategic discussions and inspires our community to take Decentraland to the next level.
+The following are my personal views (again, I'm not part of the Decentraland Foundation). I'll be candid and straightforward, tackling the platform's main problems head on. Some ideas are mine. Some ideas are spoken in hushed tones among Decentraland community members, afraid to risk proposing crazy stuff. I hope that sharing my 5 year vision sparks strategic discussions and inspires our community to take Decentraland to the next level.
 
 
 <figure>
