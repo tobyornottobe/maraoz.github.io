@@ -91,6 +91,7 @@ Liked what you read? Subscribe!
 - [Genesis city map](https://genesis.city/)
 
 ### Acknowledgements
+Thanks to [Esteban](https://twitter.com/eordano), [Yemel](https://twitter.com/yemeljardi), and [Mat](https://twitter.com/mtravizano) for feedback on early versions of this post.
 
 Cover photo by <a href="https://unsplash.com/@yogidan2012">Daniele Levis Pelusi</a> on <a href="https://unsplash.com/">Unsplash</a>
   
