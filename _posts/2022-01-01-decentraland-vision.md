@@ -76,7 +76,7 @@ Chat is clunky. Voice chat is creepy. Emotes are not enough. We really need to p
 New NFT emotes are promising, but we also need stuff to do with friends, like having a beer together, playing a game of chess, shooting each other, going adventuring across the whole map, or riding motorcycles like in Snow Crash. If these are too hard to implement in the official client, they should be implemented as alt clients!
 
 # Summary and Final Words 
-In summary, I propose to make the following vision for the next 5 years: an accessible, developer friendly, and cozy platform. Lots of different teams working at different layers of the protocol. This is the only way I see Decentraland being resilient enough to survive and thrive for years, once big tech players enter the space. Let's beat them! The metaverse must remain free, open, global, and sovereign.
+In summary, I propose to make the following vision for the next 5 years: an accessible, developer friendly, and cozy platform. Lots of different teams working at different layers of the protocol. Kids building and exploring the metaverse. This is the only way I see Decentraland being resilient enough to survive and thrive for years, once big tech players enter the space. Let's beat them! The metaverse must remain free, open, global, and sovereign.
 
 Liked what you read? Subscribe!
 <div style="text-align: center">
