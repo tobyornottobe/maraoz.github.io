@@ -55,7 +55,7 @@ A huge developer pain point to solve is that it's very hard to build stuff for D
 - A bot that tweets every time a new scene is uploaded to coordinate (x, y)
 - An alternative client which reads the data from Decentraland Nodes and renders it differently (eg: [isometric view](https://www.youtube.com/watch?v=U6rGeAuPcno), AR view, VR headset support, or even a 2D view).
 - A LAND liquidity protocol that issues a `liquidLAND` ERC20 when you deposit LANDs according to some function of the coordinates (eg: [2^(-abs(x)/300)+2^(-abs(y)/300)](https://www.wolframalpha.com/input?i=2%5E%28-abs%28x%29%2F300%29%2B2%5E%28-abs%28y%29%2F300%29)), the closer to the center (0,0), the more `liquidLAND` you get, and which allows you to withdraw LANDs for `liquidLAND` too.
-- A website that live streams from virtual cameras inside Decentraland (ie: a metaverse CCTV system).
+- Twitch.tv live streams from virtual cameras inside Decentraland (ie: a metaverse CCTV system).
 - A "layer 2" game over Decentraland where LAND owners can deploy pre-determined farm, mine, or forest scenes which generate FOOD, STONE and WOOD ERC20 tokens. These can in turn be used to craft wearables. An "age of empires" over Decentraland.
 
 All of this is possible today... but it's very hard to achieve without asking the Foundation for help. Technical know-how is buried deep in Discord and GitHub.
