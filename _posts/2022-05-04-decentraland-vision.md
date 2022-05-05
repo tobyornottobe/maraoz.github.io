@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "A vision for Decentraland's next 5 years"
+image: "/img/decentraland-vision/cover.jpg"
 ---
-<img class="cover" src="/img/decentraland-vision/cover.jpg">
+<img class="cover" src="{{ page.image }}">
 
 As some of you may know, I've been involved in the early days of [Decentraland](https://decentraland.org/). I participated in creating the first prototypes between 2015 and 2017. Back then, Decentraland's testnet ran as [a fork of bitcoin](https://github.com/decentraland/bronzeage-node/commit/7a5245e8434558d298d07d0dd2bd9862ca3af408), and fully in the browser. Crazy times. I also contributed in naming the project and defining the initial goal with the early team: to build a decentralized and open virtual reality world. I took little part in actually executing on that idea: the credit there goes to [Esteban](https://twitter.com/eordano), [Ari](https://twitter.com/arimeilich), and the amazing Decentraland Foundation's team. 
 
