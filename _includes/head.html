@@ -17,9 +17,7 @@
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 	<meta name="twitter:site" content="https://maraoz.com">
     <meta name="twitter:creator" content="@{{ site.twitter_username }}">
-    {% if page.description %}
-    <meta name="twitter:description" content="{{ page.description }}">
-    {% endif %}
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     {% if page.image %}
     <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
     {% else %}
