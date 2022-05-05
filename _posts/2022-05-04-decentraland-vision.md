@@ -95,6 +95,6 @@ Thanks to [Esteban](https://twitter.com/eordano), [Yemel](https://twitter.com/ye
 Cover photo by <a href="https://unsplash.com/@yogidan2012">Daniele Levis Pelusi</a> on <a href="https://unsplash.com/">Unsplash</a>
   
 ### Comments and Discussion
-[Discuss on HN]() — [Discuss on Reddit]() — [Email a private comment](mailto:decentraland-vision@maraoz.com)
+[Discuss on HN (soon)]() — [Discuss on Reddit (soon)]() — [Email a private comment](mailto:decentraland-vision@maraoz.com)
 
 
