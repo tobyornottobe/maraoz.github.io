@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "A vision for Decentraland's next 5 years"
-draft: true
 ---
 <img class="cover" src="/img/decentraland-vision/cover.jpg">
 
