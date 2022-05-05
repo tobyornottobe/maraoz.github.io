@@ -95,6 +95,6 @@ Thanks to [Esteban](https://twitter.com/eordano), [Yemel](https://twitter.com/ye
 Cover photo by <a href="https://unsplash.com/@yogidan2012">Daniele Levis Pelusi</a> on <a href="https://unsplash.com/">Unsplash</a>
   
 ### Comments and Discussion
-[Discuss on HN (soon)]() — [Discuss on Reddit (soon)]() — [Email a private comment](mailto:decentraland-vision@maraoz.com)
+[Discuss on HN](https://news.ycombinator.com/item?id=31267705) — [Discuss on Reddit](https://www.reddit.com/r/decentraland/comments/uikl5b/a_vision_for_decentralands_next_5_years/) — [Email a private comment](mailto:decentraland-vision@maraoz.com)
 
 
