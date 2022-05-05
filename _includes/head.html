@@ -13,5 +13,15 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ "/css/dropdown.css" | prepend: site.baseurl }}" rel='stylesheet' type='text/css'>
 
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ page.title }}">
+	<meta name="twitter:site" content="https://maraoz.com">
+    <meta name="twitter:creator" content="@{{ site.twitter_username }}">
+    <meta name="twitter:description" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    {% if page.image %}
+    <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+    {% else %}
+    <meta name="twitter:image" content="https://maraoz.com/img/avatar.png">
+    {% endif %}
 
 </head>
