@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[DRAFT] A vision for Decentraland's next 5 years"
+title:  "A vision for Decentraland's next 5 years"
 draft: true
 ---
 <img class="cover" src="/img/decentraland-vision/cover.jpg">
@@ -96,6 +96,6 @@ Thanks to [Esteban](https://twitter.com/eordano), [Yemel](https://twitter.com/ye
 Cover photo by <a href="https://unsplash.com/@yogidan2012">Daniele Levis Pelusi</a> on <a href="https://unsplash.com/">Unsplash</a>
   
 ### Comments and Discussion
-[Discuss on HN]() — [Discuss on Reddit]() — [Email a private comment](mailto:contact@maraoz.com)
+[Discuss on HN]() — [Discuss on Reddit]() — [Email a private comment](mailto:decentraland-vision@maraoz.com)
 
 
