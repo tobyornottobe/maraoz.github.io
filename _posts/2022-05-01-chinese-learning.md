@@ -33,9 +33,9 @@ Liked what you read? Subscribe!
 - [Decentraland's website](https://decentraland.org/)
 
 ### Acknowledgements
-Cover photo by <a href="https://unsplash.com/@yogidan2012">Daniele Levis Pelusi</a> on <a href="https://unsplash.com/">Unsplash</a>
+Cover photo by <a href="https://unsplash.com/@cherrybbybomb">Cherry Lin</a> on <a href="https://unsplash.com/">Unsplash</a>
   
 ### Comments and Discussion
-[Discuss on HN](https://news.ycombinator.com/item?id=31267705) — [Discuss on Reddit](https://www.reddit.com/r/decentraland/comments/uikl5b/a_vision_for_decentralands_next_5_years/) — [Email a private comment](mailto:decentraland-vision@maraoz.com)
+[Discuss on HN]() — [Discuss on Reddit]() — [Email a private comment](mailto:chinese-learning@maraoz.com)
 
 
