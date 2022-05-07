@@ -30,7 +30,7 @@ Liked what you read? Subscribe!
 </div>
 
 ### Additional Resources and Learning
-- [Decentraland's website](https://decentraland.org/)
+- [The Chairman's Bao](https://www.thechairmansbao.com/)
 
 ### Acknowledgements
 Cover photo by <a href="https://unsplash.com/@cherrybbybomb">Cherry Lin</a> on <a href="https://unsplash.com/">Unsplash</a>
