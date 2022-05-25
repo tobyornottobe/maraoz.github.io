@@ -4,10 +4,10 @@ layout: default
 
 <div class="home">
   <ul class="post-list">
-    {% for entry in site.journal | sort: 'date' | reverse %}
+    {% for entry in site.journal | sort: 'date' %}
     <li>
       <div class="entry-card">
-        <img width="30" height="30" src="/img/avatar.png" />
+        <img width="48" height="48" src="/img/avatar.png" />
         <strong>{{ entry.date | date: "%b %-d, %Y" }}</strong>
       </div>
       
