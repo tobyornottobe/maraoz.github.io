@@ -5,17 +5,17 @@ layout: default
 <div class="journal">
 
   <header class="post-header">
-    Journal Entry
+    Journal Entry for <strong>{{ entry.date | date: "%b %-d, %Y" }}</strong>
     <div class="entry-card"></div>
   </header>
+  <div class="entry-card">
+    <img width="48" height="48" src="/img/avatar.png" />
+    <strong>{{ entry.date | date: "%b %-d, %Y" }}</strong>
+  </div>
   
   <article class="post-content">
-    {{ content }}
+    {{ entry.content | markdownify}}
   </article>
-  
-  <p class="post-meta">
-    {{ page.date | date: "%b %-d, %Y" }}
-  </p>
 
 
 </div>
