@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="home">
+  <ul class="post-list">
+    {% for entry in site.journal %}
+    <li>
+      <h2>{{ entry.date  | date: "%b %-d, %Y" }}</h2>
+      <p>{{ entry.content | markdownify }}</p>
+    {% endfor %}
+    </li>
+  </ul>
+</div>
+
+

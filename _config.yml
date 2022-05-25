@@ -7,6 +7,11 @@ twitter_username: maraoz
 github_username: maraoz
 permalink: pretty
 
+collections:
+  journal:
+    output: true
+    permalink: journal/:timestamp
+
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
