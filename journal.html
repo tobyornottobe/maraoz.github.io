@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
   <ul class="post-list">
-    {% for entry in site.journal | sort: 'date' %}
+    {% for entry in site.journal | sort: 'date' | reverse %}
     <li>
       <div class="entry-card">
         <img width="48" height="48" src="/img/avatar.png" />
