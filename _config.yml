@@ -10,7 +10,7 @@ permalink: pretty
 collections:
   journal:
     output: true
-    permalink: journal/:timestamp
+    permalink: journal/:year-:month-:day
 
 markdown: kramdown
 plugins:

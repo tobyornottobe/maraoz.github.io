@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="journal">
+
+  <header class="post-header">
+    Journal Entry
+    <div class="entry-card"></div>
+  </header>
+  
+  <article class="post-content">
+    {{ content }}
+  </article>
+  
+  <p class="post-meta">
+    {{ page.date | date: "%b %-d, %Y" }}
+    <span class="language-menu" post-url="{{ page.url | prepend: site.url }}"></span>
+  </p>
+
+
+</div>
