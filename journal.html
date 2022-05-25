@@ -6,10 +6,17 @@ layout: default
   <ul class="post-list">
     {% for entry in site.journal %}
     <li>
-      <h2>{{ entry.date  | date: "%b %-d, %Y" }}</h2>
-      <p>{{ entry.content | markdownify }}</p>
-    {% endfor %}
+      <div class="entry-card">
+        <img width="30" height="30" src="/img/avatar.png" />
+        Manuel Araoz • @maraoz
+        • {{ page.date | date: "%b %-d, %Y" }}
+      </div>
+      
+      <article class="post-content">
+        {{ entry.content | markdownify}}
+      </article>
     </li>
+    {% endfor %}
   </ul>
 </div>
 
