@@ -16,7 +16,7 @@ draft: true
 However, I recently revised my position. I think chosing a good idea is crucial to build a successful startup. And I don't mean this in a romantic sense, but in a very practical one.
 I don't think it's good advice for people starting a company to start executing on some random idea just because "execution is everything".
 
-# Ideas do have value
+## Ideas do have value
 Let's first define 'idea'. In this context, a startup idea is a rough plan or vision of what you want to build and why that's cool. It's a hypothesis about a problem that people have, and how you can solve it. It's a story you tell yourself and others, to explain what you're doing and why.
 
 The problem I have with "ideas are cheap, execution is everything" is that there's a hidden relation between good execution and good ideas, because:
@@ -28,7 +28,7 @@ The problem I have with "ideas are cheap, execution is everything" is that there
 
 In other words, a good idea is actually a prerequisite for executing well.
 
-# What defines a good idea?
+## What defines a good idea?
 So, what is ✨**a *good* idea**✨?  
 A good idea is one that scratches your own itch. It's often a question that appears in your mind when you're deep into exploring some obscure knowledge. It's not a remix of what everyone's talking about, or related the hot topic in your industry, or something that makes you get attention at a party. Good startup ideas are not well understood by most other people. 
 
@@ -37,7 +37,7 @@ I also like this suggestion by David Lynch:
 
 My interpretation is: surround yourself with interesting people. Dive deep into weird topics that interest you. Follow your curiosity. Be okay with being misunderstood. That's where good ideas come from.
 
-# Summary and Final Words 
+## Summary and Final Words 
 
 
 

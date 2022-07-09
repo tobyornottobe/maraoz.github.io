@@ -21,7 +21,7 @@ Intro intro intro...
 - first two months: pronunciation trainer
 - vocabulary
 
-# Summary and Final Words 
+## Summary and Final Words 
 
 
 Liked what you read? Subscribe!

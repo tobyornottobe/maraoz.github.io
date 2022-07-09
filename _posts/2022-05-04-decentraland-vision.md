@@ -75,7 +75,7 @@ Remember, the goal is to enable 12-year-olds to enjoy building stuff inside Dece
 Chat is clunky. Voice chat is creepy. Emotes are not enough. We really need to polish social interactions if we expect people to spend more than 10 minutes at a time inside Decentraland. My take here is that voice chat should be removed. People already use Discord or other apps to voice chat while gaming. Why waste time and resources building a p2p voice chat when nobody uses it? In-game chat should stay and work flawlessly. Same with player positioning, avatars, the minimap, etc. (eg: players currently can’t walk or run while having the map open!!)  
 New NFT emotes are promising, but we also need stuff to do with friends, like having a beer together, playing a game of chess, shooting each other, going adventuring across the whole map, or riding motorcycles like in Snow Crash. If these are too hard to implement in the official client, they should be implemented as alt clients!
 
-# Summary and Final Words 
+## Summary and Final Words 
 In summary, I propose to make the following vision for the next 5 years: an accessible, developer friendly, and cozy platform. Lots of different teams working at different layers of the protocol. Kids building and exploring the metaverse. New public LANDs being issued weekly and thousands of private LANDs. This is the only way I see Decentraland being resilient enough to survive and thrive for years, once big tech players enter the space. Let's beat them! The metaverse must remain free, open, global, and sovereign.
 
 Liked what you read? Subscribe!

@@ -22,7 +22,7 @@ Seekers tear things apart. They analyze them. Seekers are pessimists. They quest
 Seekers are heard saying:
 - "实事求是。" (seek truth from facts)
 
-# Summary and Final Words 
+## Summary and Final Words 
 
 Programmers are builders. Auditors are seekers.
 Entrepreneurs are builders. Scientists are seekers.
