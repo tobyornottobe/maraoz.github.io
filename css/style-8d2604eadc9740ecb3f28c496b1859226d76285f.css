@@ -107,6 +107,9 @@ blockquote p {
   display: inline;
 }
 
+.rounded {
+  border-radius: 8px;
+}
 
 .perspective {
   max-width: 49%;
