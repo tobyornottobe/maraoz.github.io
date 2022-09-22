@@ -2,6 +2,9 @@
 rgba(44,118,139,1)
 rgba(243,239,220,1)
  */
+.journal li {
+  border-bottom: 1px solid gainsboro;
+}
 .journal-img {
   width: 50%;
 }
