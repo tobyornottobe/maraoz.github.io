@@ -6,7 +6,7 @@ rgba(243,239,220,1)
   border-bottom: 1px solid gainsboro;
 }
 .journal-img {
-  width: 50%;
+  width: 75%;
 }
 .landing-cover {
   position: relative;
@@ -52,8 +52,6 @@ rgba(243,239,220,1)
   font-size: 3em;
   margin-bottom: 0px;
 }
-.coverCard .title {
-}
 
 .avatar {
   border:0px solid white;
@@ -72,8 +70,6 @@ rgba(243,239,220,1)
   line-height: 1em;
 }
 
-ul {
-}
 li {
   margin-bottom: 0.5rem;
 }
