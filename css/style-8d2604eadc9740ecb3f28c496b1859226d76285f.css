@@ -68,12 +68,14 @@ rgba(243,239,220,1)
   -moz-border-radius: 1500px;
   background: url(../img/avatar.jpg) no-repeat;
   background-position: top;
+  background-size: contain;
   width: 250px;
   height: 250px;
 }
 
 .avatar:hover {
   background: url(../img/avatar-hover.jpg) no-repeat;
+  background-size: contain;
 }
 
 /* image preloading dark magickz */
