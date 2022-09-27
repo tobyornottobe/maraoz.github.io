@@ -8,6 +8,12 @@ rgba(243,239,220,1)
 .journal-img {
   width: 75%;
 }
+
+.post-title {
+  font-weight: bold;
+  font-family: 'Poppins', Helvetica, 'Open Sans', sans-serif;
+}
+
 .landing-cover {
   position: relative;
   background: rgba(243,239,220,1);
