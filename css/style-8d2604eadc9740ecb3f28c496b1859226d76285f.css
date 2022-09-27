@@ -55,6 +55,7 @@ rgba(243,239,220,1)
 }
 
 .coverCard .name {
+  font-family: 'Poppins', Helvetica, sans-serif;
   font-size: 3em;
   margin-bottom: 0px;
 }
