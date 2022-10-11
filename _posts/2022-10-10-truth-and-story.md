@@ -3,7 +3,9 @@ layout: post
 title:  "[DRAFT] Truth and Story"
 draft: true
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BoYVhB5_MM8?autoplay=1&loop=1" title="YouTube video player" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-youtube">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/BoYVhB5_MM8?autoplay=1&loop=1" title="YouTube video player" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Summary and Final Words 
 
