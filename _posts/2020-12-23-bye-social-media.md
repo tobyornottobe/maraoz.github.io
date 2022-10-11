@@ -45,6 +45,4 @@ To close this brief post, I'll share a bold prediction (and hope) on this topic:
 [Discuss on HN](https://news.ycombinator.com/item?id=25524429) — [Discuss on Reddit](https://www.reddit.com/r/simpleliving/comments/kj6j15/social_media_considered_harmful/) — [Email a private comment](mailto:bye-social-media@maraoz.com)
 
 
-<div style="text-align: center">
-	<iframe style="display:block;" src="https://maraoz.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-</div>
+{% include substack.html %}

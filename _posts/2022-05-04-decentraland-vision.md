@@ -79,9 +79,7 @@ New NFT emotes are promising, but we also need stuff to do with friends, like ha
 In summary, I propose to make the following vision for the next 5 years: an accessible, developer friendly, and cozy platform. Lots of different teams working at different layers of the protocol. Kids building and exploring the metaverse. New public LANDs being issued weekly and thousands of private LANDs. This is the only way I see Decentraland being resilient enough to survive and thrive for years, once big tech players enter the space. Let's beat them! The metaverse must remain free, open, global, and sovereign.
 
 Liked what you read? Subscribe!
-<div style="text-align: center">
-	<iframe style="display:block;" src="https://maraoz.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-</div>
+{% include substack.html %}
 
 ### Additional Resources and Learning
 - [Decentraland's website](https://decentraland.org/)

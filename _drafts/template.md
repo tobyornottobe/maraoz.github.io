@@ -9,9 +9,7 @@ title:  ""
 ## Section
 ### Subsection
 
-<div style="text-align: center">
-	<iframe style="display:block;" src="https://maraoz.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-</div>
+{% include substack.html %}
 
 ### Additional Resources and Learning
 - []()

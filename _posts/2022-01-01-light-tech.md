@@ -32,9 +32,7 @@ suggested by gpt3:
 -Take breaks often, even if it's just for a few minutes
 -Disconnect from the internet altogether for periods of time
 
-<div style="text-align: center">
-	<iframe style="display:block;" src="https://maraoz.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-</div>
+{% include substack.html %}
 
 ### Additional Resources and Learning
 - [Deloitte's fantastic "Taming Technology" Infographic](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/about-deloitte/us-about-deloitte-taming-technology.pdf)

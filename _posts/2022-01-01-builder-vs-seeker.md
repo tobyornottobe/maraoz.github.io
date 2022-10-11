@@ -39,9 +39,7 @@ Moreover, these are by no means the only two paths in life.
 
  "To explain the world to ourselves we make up stories and then, because we are good storytellers, we get infatuated by them and confuse our representations of the world with the world itself. This confusion afflicts scientists as much as laypeople; indeed, it affects us more, because we have such powerful stories in our tool kits." 
 
-<div style="text-align: center">
-	<iframe style="display:block;" src="https://maraoz.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-</div>
+{% include substack.html %}
 
 ### Additional Resources and Learning
 - [Reddit co-founder Alexis Ohanian is taking a stand against “hustle porn”](https://qz.com/work/1458073/reddit-co-founder-alexis-ohanian-is-taking-a-stand-against-hustle-porn/)

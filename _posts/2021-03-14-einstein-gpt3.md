@@ -313,10 +313,7 @@ This interview was made purely for entertainment purposes, but I really learnt a
 
 If you enjoyed what you read and would like to be notified when a new post comes out, subscribe below! Do let me know if you’d like specific historical figures to be interviewed. I’m thinking of doing Marie Curie, Isaac Newton, Mother Teresa, Charles Darwin, Sigmund Freud, Queen Nzinga, Socrates, or Johann Sebastian Bach next. (some of which were suggested by GPT-3 itself)
 
-
-<div style="text-align: center">
-	<iframe style="display:block;" src="https://maraoz.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-</div>
+{% include substack.html %}
   
 
 [Discuss on HN](https://news.ycombinator.com/item?id=26461368) — [Discuss on Reddit](https://www.reddit.com/r/OpenAI/comments/m591a0/interviewing_albert_einstein_via_gpt3_maraozcom/) — [Email a private comment](mailto:einstein-gpt3@maraoz.com)

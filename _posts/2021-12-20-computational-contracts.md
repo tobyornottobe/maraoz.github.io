@@ -16,9 +16,7 @@ It's more precise, unambiguous, complete, and it sounds a lot less like a buzzwo
 
 I know it's probably too late to change how everyone calls <s>smart contracts</s> computational contracts, but I had to try. If you agree, please start using "computational contracts". If you don't, ignore this post and have a nice day :)
 
-<div style="text-align: center">
-	<iframe style="display:block;" src="https://maraoz.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-</div>
+{% include substack.html %}
 
 
 ### Acknowledgements

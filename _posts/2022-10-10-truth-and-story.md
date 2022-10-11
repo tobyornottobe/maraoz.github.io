@@ -62,11 +62,7 @@ They know what it means to be truly alone.<br />
 ## Summary and Final Words 
 
 Liked what you read? Subscribe!
-<div class="embed-responsive embed-3-2">
-	<div style="text-align: center">
-		<iframe style="display:block;" src="https://maraoz.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-	</div>
-</div>
+{% include substack.html %}
 
 ### Acknowledgements
 Cover photo by <a href="https://www.midjourney.com/">MidJourney</a>
