@@ -11,9 +11,9 @@ Press play and continue reading, if you please.
 ## Summary and Final Words 
 
 Liked what you read? Subscribe!
-<div class="embed-responsive">
+<div class="embed-responsive embed-3-2">
 	<div style="text-align: center">
-		<iframe style="display:block;" src="https://maraoz.substack.com/embed" width="560" height="315" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+		<iframe style="display:block;" src="https://maraoz.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 	</div>
 </div>
 

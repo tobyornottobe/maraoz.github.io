@@ -93,6 +93,9 @@ rgba(243,239,220,1)
   height: 0;
   overflow: hidden;
 }
+.embed-3-2 {
+  padding-bottom: 66.66%; /* - 3:2 aspect ratio */
+}
 
 .embed-responsive iframe,
 .embed-responsive object,
