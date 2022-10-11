@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "[DRAFT] Truth and Story"
-image: "/img/truth-and-story/cover.jpg"
 draft: true
 ---
-<img class="cover rounded" src="{{ page.image }}">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BoYVhB5_MM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Summary and Final Words 
 
