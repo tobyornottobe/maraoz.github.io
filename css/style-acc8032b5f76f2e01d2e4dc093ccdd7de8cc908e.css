@@ -108,6 +108,10 @@ rgba(243,239,220,1)
   height: 100%;
 }
 
+.poem {
+  text-align: center;
+}
+
 .first-letter {
   font-size: 4em;
   line-height: 1em;
@@ -202,8 +206,10 @@ blockquote p {
 
 @media only screen and (max-width: 600px) {
 
-  .wrapper {
+  .poem {
+    font-size: 1rem;
   }
+
   .cover {
     justify-content: center;
     align-items: center;
