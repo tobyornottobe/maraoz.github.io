@@ -1,4 +1,4 @@
 ---
 layout: journal
 ---
-普通话很棒
+Finding [Meaningness's chapter on control](https://meaningness.com/control) very interesting.
