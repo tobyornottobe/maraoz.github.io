@@ -3,6 +3,7 @@ layout: post
 title:  "[DRAFT] Road to Artificial General Intelligence"
 image: "/img/agi-roadmap/cover.jpg"
 draft: true
+gpt3: true
 ---
 <figure>
   <figcaption style="text-align: left">
