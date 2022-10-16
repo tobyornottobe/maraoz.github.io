@@ -2,6 +2,7 @@
 layout: post
 title:  "Interviewing Albert Einstein via GPT-3"
 comments: true
+gpt3: true
 ---
 <figure>
   <figcaption style="text-align: left">
