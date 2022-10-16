@@ -26,8 +26,8 @@ The principles I've chosen to create, maintain and order the list are:
 - Increasing complexity: milestones should be listed in estimated ascending order of difficulty and/or task complexity.
 
 ## The Roadmap, v0.1
-Here goes the first version of the roadmap, divided it into groups of progressive complexity. It gets kind of weird and cringe-worthy towards the end, but remember I'm trying to be "general" in what we value in other humans that AIs could potentially do.
-Please bear in mind that this is just a conversation starter. If you dislike a particular milestone or ordering decision, feel free to [open a pull request](https://github.com/maraoz/maraoz.github.io/edit/master/_posts/2022-10-15-agi-roadmap.md).
+Here goes the first version of the roadmap, divided it into groups of progressive complexity. It gets kind of weird and cringe-worthy towards the end, but remember I'm trying to be "general" in what we value in other humans that AIs could potentially do.  
+Please bear in mind that this is just a conversation starter. If you dislike a particular milestone or ordering decision, feel free to [open a pull request](https://github.com/maraoz/maraoz.github.io/edit/master/_posts/2022-10-15-agi-roadmap.md).  
 
 ### Toy level intelligence 
 ✅ AI can beat a human at tic-tac-toe — 1972 [<a href="https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy">done</a> thanks to Newell and Simon]<br />
