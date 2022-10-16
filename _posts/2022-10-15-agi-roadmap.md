@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[DRAFT] Road to Artificial General Intelligence"
-image: "/img/agi/cover.jpg"
+image: "/img/agi-roadmap/cover.jpg"
 draft: true
 ---
 <figure>
