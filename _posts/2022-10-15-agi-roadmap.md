@@ -13,7 +13,7 @@ draft: true
 
 I always believed in the power of strong visions to guide huge project executions. That's why reading science fiction is so common among those who build awesome tech. Then, in come the engineers, dividing huge problems into smaller more addressable chunks. 
 
-I've been thinking and reading a lot about efforts in achieving Artificial General Intelligence (AGI), and believe it could help to provide a clear path of milestones that we need to achieve in order to reach the panacea of AGI. I'm starting the list, and I'll make it open-source to get others (you!) to update it and improve it collaboratively. 
+I've been thinking and reading a lot about efforts in achieving Artificial General Intelligence (AGI), and believe it could help to provide a clear path of milestones that we need to achieve in order to reach the promised land of AGI. I'm starting the list, and I'll make it open-source to get others (you!) to update it and improve it collaboratively. 
 
 Similar to what Aubrey de Grey’s list of the [7 causes of death](https://www.longlonglife.org/en/transhumanism-longevity/aging/aubrey-de-grey/transhumanism-aubrey-de-greys-causes-of-aging-with-sens-foundation/) did for longevity studies, or what the [Millennium Prize](https://en.wikipedia.org/wiki/Millennium_Prize_Problems) did for mathematics, maybe we can build a program that motivates young researchers to tackle AGI one jump at a time. A clear roadmap is also much more useful than the nebulous challenge of "solving intelligence".
 
@@ -26,7 +26,7 @@ The principles I've chosen to create, maintain and order the list are:
 - Increasing complexity: milestones should be listed in estimated ascending order of difficulty and/or task complexity.
 
 ## The Roadmap, v0.1
-Here goes the first version of the roadmap. I tried dividing it into groups of progressive difficulty / value. It gets kind of weird towards the end, but remember I'm trying to be "general" in what we value in other humans that AIs could potentially do.
+Here goes the first version of the roadmap, divided it into groups of progressive complexity. It gets kind of weird towards the end, but remember I'm trying to be "general" in what we value in other humans that AIs could potentially do.
 
 ### Abstract game playing or niche-specific intelligence
 ✅ AI beats humans at chess — 1997 [<a href="https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov">done</a> thanks to IBM]<br />
