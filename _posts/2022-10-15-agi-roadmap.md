@@ -53,8 +53,8 @@ Please bear in mind that this is just a conversation starter. If you dislike a p
 ⬜ A robot that can play a physical instrument (eg: piano, guitar) with two humanoid hands.  
 
 ### Artistic intelligence 
-✅ Some AI generated painting or visual artwork wins a fairly big art competition — 2022 [<a href="https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html">done</a> thanks to Jason M. Allen and MidJourney] <br />
-https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html
+✅ Some AI generated painting or visual artwork wins a fairly big art competition — 2022 [<a href="https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html">done</a> thanks to Jason M. Allen and MidJourney](
+https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html)<br />
 ⬜ Some AI generated music "band" has more than 1 million monthly listeners on Spotify or equivalent platform. <br />
 ⬜ AI or robot that can skillfully jam with another human playing live.  
 ⬜ AI or robot that can skillfully jam with a group of humans playing live.  
