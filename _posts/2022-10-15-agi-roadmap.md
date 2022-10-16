@@ -69,10 +69,11 @@ https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists
 ⬜ Robot can copy a new physical movement by copying a human (eg: learn to break an egg by watching a human do it)  
 ⬜ Robot can copy a new artistic physical movement by copying a human (eg: a dance move)  
 ⬜ Robot can do something new for the first time with human supervision and guidance (like a 5-year-old can bake cookies with adult supervision)  
-⬜ AI that lies if convenient   
+⬜ AI that lies if convenient.   
 ⬜ AI that can recognize explicit or implicit human-imposed limits and then break them if convenient.  
 ⬜ AI or robot that knows when to ask for help when the task is too hard for them.    
 ⬜ AI or robot that can generate empathy from humans by being/acting cute.   
+⬜ AI that can understand and respond to human emotions.  
 ⬜ AI that can effectively explain how they solved a task to an adult.  
 ⬜ AI that can effectively train an adult on how they solved a task.  
 ⬜ AI that can effectively explain how they solved a task to a child.  
