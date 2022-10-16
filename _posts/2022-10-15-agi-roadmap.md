@@ -96,7 +96,7 @@ https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists
 ⬜ AI that can write a short story that wins a major award.  
 ⬜ AI that can write a novel that is published in a major publishing house.  
 ⬜ AI that can write a novel that wins a major award.  
-⬜ AI that can write a play that is produced in a major theatre.  
+⬜ AI that can write a play that is produced in a major theater.  
 ⬜ AI that can write a play that wins a major award.  
 
 ### Intimate intelligence
