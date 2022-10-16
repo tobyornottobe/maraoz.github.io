@@ -66,6 +66,7 @@ rgba(243,239,220,1)
 }
 
 .tooltip .tooltip-text {
+  text-transform: none;
   visibility: hidden;
   width: 120px;
   font-size: 1rem;
