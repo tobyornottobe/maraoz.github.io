@@ -62,7 +62,6 @@ rgba(243,239,220,1)
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted black;
 }
 
 .tooltip .tooltip-text {
