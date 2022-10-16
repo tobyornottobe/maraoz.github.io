@@ -26,17 +26,17 @@ The principles I've chosen to create, maintain and order the list are:
 - Increasing complexity: milestones should be listed in estimated ascending order of difficulty and/or task complexity.
 
 ## The Roadmap, v0.1
-Here goes the first version of the roadmap, divided it into groups of progressive complexity. It gets kind of weird towards the end, but remember I'm trying to be "general" in what we value in other humans that AIs could potentially do.
+Here goes the first version of the roadmap, divided it into groups of progressive complexity. It gets kind of weird and cringe-worthy towards the end, but remember I'm trying to be "general" in what we value in other humans that AIs could potentially do.
+Please bear in mind that this is just a conversation starter. If you dislike a particular milestone or ordering decision, feel free to [open a pull request](https://github.com/maraoz/maraoz.github.io/edit/master/_posts/2022-10-15-agi-roadmap.md).
 
-### Abstract game playing or niche-specific intelligence
+### Toy level intelligence 
+✅ AI can beat a human at tic-tac-toe — 1972 [<a href="https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy">done</a> thanks to Newell and Simon]<br />
+✅ AI can beat a human at checkers — 1994 [<a href="https://en.wikipedia.org/wiki/Chinook_(computer_program)#Man_vs._Machine_World_Champion">done</a> thanks to Chinook]<br />
 ✅ AI beats humans at chess — 1997 [<a href="https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov">done</a> thanks to IBM]<br />
 ✅ AI beats humans at go — 2016 [<a href="https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol">done</a> thanks to DeepMind]<br />
 ✅ AI wins Jeopardy game — 2011 [<a href="https://en.wikipedia.org/wiki/IBM_Watson#Jeopardy!">done</a> thanks to IBM]<br />
 ✅ AI beats humans at [StarCraft](https://starcraft2.com/en-us/) — 2019 [<a href="https://en.wikipedia.org/wiki/AlphaStar_(software)">done</a> thanks to DeepMind]<br />
 ✅ Some AI generated painting or visual artwork sells for more than $100k — 2021 [<a href="https://etherscan.io/tx/0x66579f35ed2c335a218604bd1c0a1aaa938024f5a3c6d87884e4c01b3a90a0d4">done</a> thanks to Chromie Squiggle #9 by Snowfro and probably many other procedurally generated NFTs] <br />
-✅ Some AI generated painting or visual artwork wins a fairly big art competition — 2022 [<a href="https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html">done</a> thanks to Jason M. Allen and MidJourney] <br />
-https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html
-⬜ AI that can pass the The Turing Test  
 
 ### Athlete level intelligence
 ⬜ AI beats humans at non-simulated car race (NASCAR, F1, etc).<br />
@@ -53,6 +53,8 @@ https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists
 ⬜ A robot that can play a physical instrument (eg: piano, guitar) with two humanoid hands.  
 
 ### Artistic intelligence 
+✅ Some AI generated painting or visual artwork wins a fairly big art competition — 2022 [<a href="https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html">done</a> thanks to Jason M. Allen and MidJourney] <br />
+https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html
 ⬜ Some AI generated music "band" has more than 1 million monthly listeners on Spotify or equivalent platform. <br />
 ⬜ AI or robot that can skillfully jam with another human playing live.  
 ⬜ AI or robot that can skillfully jam with a group of humans playing live.  
@@ -70,6 +72,10 @@ https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists
 ⬜ AI that can recognize explicit or implicit human-imposed limits and then break them if convenient.  
 ⬜ AI or robot that knows when to ask for help when the task is too hard for them.    
 ⬜ AI or robot that can generate empathy from humans by being/acting cute.   
+⬜ AI that can effectively explain how they solved a task to an adult.  
+⬜ AI that can effectively train an adult on how they solved a task.  
+⬜ AI that can effectively explain how they solved a task to a child.  
+⬜ AI that can effectively train a child on how they solved a task.  
 
 ### Economic intelligence
 ⬜ Robot that passes the [Goertzel College Student Test](https://en.wikipedia.org/wiki/Artificial_general_intelligence#Tests_for_confirming_human-level_AGI).  
@@ -84,6 +90,14 @@ https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists
 ⬜ AI that can discuss strategy with a human and add value.  
 ⬜ AI that can discuss strategy with a team of humans and add value.  
 
+### Storytelling intelligence
+⬜ AI that can write a short story that is published in a major magazine.  
+⬜ AI that can write a short story that wins a major award.  
+⬜ AI that can write a novel that is published in a major publishing house.  
+⬜ AI that can write a novel that wins a major award.  
+⬜ AI that can write a play that is produced in a major theatre.  
+⬜ AI that can write a play that wins a major award.  
+
 ### Intimate intelligence
 ⬜ Robot that can put a child to sleep.  
 ⬜ Robot that can be a nanny for a baby while parents dine out.  
@@ -93,14 +107,14 @@ https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists
 ⬜ Robot that can be a nanny for two children while parents dine out.  
 ⬜ AI that can befriend a human (human talks to AI at least monthly for years)  
 ⬜ AI that can discuss philosophy meaningfully with a human.  
+⬜ Robot that can bear a human child.  
 
-### Sustainability and culture-building intelligence
+### Meta-intelligence
 ⬜ AI that can get bored and look for new challenges.  
 ⬜ AI that can find their own new interests by browsing the web or similar.  
 ⬜ AI that has their own fairly unique personality.  
 ⬜ AI or robot that can generate its own source of energy from nature.  
-⬜ AI or robot that can repair or upgrade their own hardware.  
-⬜ Robot that can bear a human child.  
+⬜ AI or robot that can repair and upgrade their own hardware.  
 ⬜ AI that can create new explanations on how the world works and share it with humans. (scientist mindset)  
 ⬜ AI that can convince other humans or AIs of their new ideas.  
 
