@@ -50,7 +50,7 @@ Please bear in mind that this is just a conversation starter. If you dislike a p
 ⬜ A robot that can put on clothes that fit them.  
 ⬜ A robot that can paint a painting with a brush, copying a real thing.  
 ⬜ A robot that can brew a great [specialty coffee](https://en.wikipedia.org/wiki/Specialty_coffee).  
-⬜ A robot that can pass the The Wozniak Coffee Test (to enter an average home and figure out how to make coffee).
+⬜ A robot that can pass the The Wozniak Coffee Test (to enter an average home and figure out how to make coffee).  
 ⬜ A robot that can play a physical instrument (eg: piano, guitar) with two humanoid hands.  
 
 ### Artistic intelligence 
