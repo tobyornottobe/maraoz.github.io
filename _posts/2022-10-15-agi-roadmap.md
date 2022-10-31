@@ -40,7 +40,6 @@ Please bear in mind that this is just a conversation starter. If you dislike a p
 ✅ AI beats humans at go — 2016 [<a href="https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol">done</a> thanks to DeepMind]<br />
 ✅ AI beats humans at [StarCraft](https://starcraft2.com/en-us/) — 2019 [<a href="https://en.wikipedia.org/wiki/AlphaStar_(software)">done</a> thanks to DeepMind]<br />
 ✅ AI beats humans at poker — 2019 [<a href="https://en.wikipedia.org/wiki/Pluribus_(poker_bot)">done</a> thanks to Facebook]<br />
-✅ Some AI generated painting or visual artwork sells for more than $100k — 2021 [<a href="https://etherscan.io/tx/0x66579f35ed2c335a218604bd1c0a1aaa938024f5a3c6d87884e4c01b3a90a0d4">done</a> thanks to Chromie Squiggle #9 by Snowfro and probably many other procedurally generated NFTs] <br />
 
 ### Athlete level intelligence
 ⬜ AI beats humans at non-simulated car race (NASCAR, F1, etc).<br />
@@ -59,6 +58,7 @@ Please bear in mind that this is just a conversation starter. If you dislike a p
 ### Artistic intelligence 
 ✅ Some AI generated painting or visual artwork wins a fairly big art competition — 2022 [<a href="https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html">done</a> thanks to Jason M. Allen and MidJourney](
 https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html)<br />
+✅ Some AI generated painting or visual artwork sells for more than $100k — 2021 [<a href="https://etherscan.io/tx/0x66579f35ed2c335a218604bd1c0a1aaa938024f5a3c6d87884e4c01b3a90a0d4">done</a> thanks to Chromie Squiggle #9 by Snowfro and probably many other procedurally generated NFTs] <br />
 ⬜ Some AI generated music "band" has more than 1 million monthly listeners on Spotify or equivalent platform. <br />
 ⬜ AI or robot that can skillfully jam with another human playing live.  
 ⬜ AI or robot that can skillfully jam with a group of humans playing live.  
