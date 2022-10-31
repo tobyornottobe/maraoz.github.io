@@ -14,21 +14,23 @@ gpt3: true
 
 I always believed in the power of strong visions to guide huge project executions. That's why reading science fiction is so common among those who build awesome tech. Then, in come the engineers, dividing huge problems into smaller more addressable chunks. 
 
-I've been thinking and reading a lot about efforts in achieving Artificial General Intelligence (AGI), and believe it could help to provide a clear path of milestones that we need to achieve in order to reach the promised land of AGI. I'm starting the list, and I'll make it open-source to get others (you!) to update it and improve it collaboratively. 
+I've been thinking and reading a lot about efforts in achieving Artificial General Intelligence (AGI), and believe it could help to provide a clear path of milestones that we need to achieve in order to reach the promised land of AGI. I'm starting the list, and I'll make it open-source so that others (you!) can update it and improve it collaboratively. 
 
 Similar to what Aubrey de Grey’s list of the [7 causes of death](https://www.longlonglife.org/en/transhumanism-longevity/aging/aubrey-de-grey/transhumanism-aubrey-de-greys-causes-of-aging-with-sens-foundation/) did for longevity studies, or what the [Millennium Prize](https://en.wikipedia.org/wiki/Millennium_Prize_Problems) did for mathematics, maybe we can build a program that motivates young researchers to tackle AGI one jump at a time. A clear roadmap is also much more useful than the nebulous challenge of "solving intelligence".
 
 
 ## Design Principles
 The principles I've chosen to create, maintain and order the list are: 
-- Simple: the list should not be exhaustive, but aim to provide inspirational guidelines.
-- Engineering mindset: the list should focus on specific capabilities and not research or implementation details.
-- Inspirational over formally defined: it's more important that milestones are fun and motivational than super clearly defined.
-- Increasing complexity: milestones should be listed in estimated ascending order of difficulty and/or task complexity.
+- **Simple**: the list should not try to be exhaustive, but aim to provide inspirational challenges.
+- **Engineering mindset**: the list should focus on specific capabilities and not research or implementation details.
+- **Motivational over well defined**: it's more important that milestones are fun and motivate research, than super clearly defined.
+- **Increasing complexity**: milestones should be listed in (estimated) ascending order of difficulty and/or task complexity.
 
 ## The Roadmap, v0.1
-Here goes the first version of the roadmap, divided it into groups of progressive complexity. It gets kind of weird and cringe-worthy towards the end, but remember I'm trying to be "general" in what we value in other humans that AIs could potentially do.  
+Here goes the first version of the roadmap, divided it into groups of progressive complexity. It gets kind of weird and cringe-worthy towards the end, but remember I'm trying to be as "general" as possible. Whatever we value in other humans, AGIs should do too.  
 Please bear in mind that this is just a conversation starter. If you dislike a particular milestone or ordering decision, feel free to [open a pull request](https://github.com/maraoz/maraoz.github.io/edit/master/_posts/2022-10-15-agi-roadmap.md).  
+
+[Check out Roadmap v0.1](https://maraoz.com/road-to-agi/)
 
 ### Toy level intelligence 
 ✅ AI can beat a human at tic-tac-toe — 1972 [<a href="https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy">done</a> thanks to Newell and Simon]<br />
