@@ -1,18 +1,13 @@
 ---
-layout: default
+layout: post
+title:  "Road to AGI v0.1"
+image: "/img/agi-roadmap/cover.jpg"
 ---
+<img class="cover rounded" src="{{ page.image }}">
 
-<div class="post">
+[what?](https://maraoz.com/2022/10/15/agi-roadmap/)
 
-  <header class="post-header">
-    <h1 class="post-title">Road to AGI v0.1</h1>
-  </header>
-
-
-  <article class="post-content">
-    [what?](https://maraoz.com/2022/10/15/agi-roadmap/)
-
-    This list is collaborative, feel free to [open a pull request](https://github.com/maraoz/maraoz.github.io/edit/master/road-to-agi.html).  
+This list is collaborative, feel free to [open a pull request](https://github.com/maraoz/maraoz.github.io/edit/master/road-to-agi.html).  
 
 ### Toy level intelligence 
 ✅ AI can beat a human at tic-tac-toe — 1972 [<a href="https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy">done</a> thanks to Newell and Simon]<br />
@@ -24,8 +19,3 @@ layout: default
 ✅ AI beats humans at poker — 2019 [<a href="https://en.wikipedia.org/wiki/Pluribus_(poker_bot)">done</a> thanks to Facebook]<br />
 ✅ Some AI generated painting or visual artwork sells for more than $100k — 2021 [<a href="https://etherscan.io/tx/0x66579f35ed2c335a218604bd1c0a1aaa938024f5a3c6d87884e4c01b3a90a0d4">done</a> thanks to Chromie Squiggle #9 by Snowfro and probably many other procedurally generated NFTs] <br />
 
-  </article>
-
-
-
-</div>
