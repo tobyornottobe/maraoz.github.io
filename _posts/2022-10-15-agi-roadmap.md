@@ -22,15 +22,15 @@ Similar to what Aubrey de Grey’s list of the [7 causes of death](https://www.l
 ## Design Principles
 The principles I've chosen to create, maintain and order the list are: 
 - **Simple**: the list should not try to be exhaustive, but aim to provide inspirational challenges.
-- **Engineering mindset**: the list should focus on specific capabilities and not research or implementation details.
+- **Task-oriented**: the list should focus on specific capabilities and not research or implementation details.
 - **Motivational over well defined**: it's more important that milestones are fun and motivate research, than super clearly defined.
 - **Increasing complexity**: milestones should be listed in (estimated) ascending order of difficulty and/or task complexity.
 
 ## The Roadmap, v0.1
 Here goes the first version of the roadmap, divided it into groups of progressive complexity. It gets kind of weird and cringe-worthy towards the end, but remember I'm trying to be as "general" as possible. Whatever we value in other humans, AGIs should do too.  
-Please bear in mind that this is just a conversation starter. If you dislike a particular milestone or ordering decision, feel free to [open a pull request](https://github.com/maraoz/maraoz.github.io/edit/master/_posts/2022-10-15-agi-roadmap.md).  
+Please bear in mind that this is just a conversation starter. If you dislike a particular milestone or ordering decision, feel free to [open a pull request](https://github.com/maraoz/maraoz.github.io/edit/master/road-to-agi.html).  
 
-[Check out Roadmap v0.1](https://maraoz.com/road-to-agi/)
+[Check out Roadmap v0.1 on its own page.](https://maraoz.com/road-to-agi/)
 
 ### Toy level intelligence 
 ✅ AI can beat a human at tic-tac-toe — 1972 [<a href="https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy">done</a> thanks to Newell and Simon]<br />
