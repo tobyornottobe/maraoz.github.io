@@ -14,25 +14,25 @@ gpt3: true
 
 I always believed in the power of strong visions to guide huge project executions. That's why reading science fiction is so common among those who build awesome tech. Then, in come the engineers, dividing huge problems into smaller more addressable chunks. 
 
-I've been thinking and reading a lot about efforts in achieving Artificial General Intelligence (AGI), and believe it could help to provide a clear path of milestones that we need to achieve in order to reach the promised land of AGI. I'm starting the list, and I'll make it open-source so that others (you!) can update it and improve it collaboratively. 
+I've been thinking and reading a lot about efforts in achieving Artificial General Intelligence (AGI), and believe it could help to provide a clear path of milestones that we need to achieve in order to reach the goal of AGI.  
 
-Similar to what Aubrey de Grey’s list of the [7 causes of death](https://www.longlonglife.org/en/transhumanism-longevity/aging/aubrey-de-grey/transhumanism-aubrey-de-greys-causes-of-aging-with-sens-foundation/) did for longevity studies, or what the [Millennium Prize](https://en.wikipedia.org/wiki/Millennium_Prize_Problems) did for mathematics, maybe we can build a program that motivates young researchers to tackle AGI one jump at a time. A clear roadmap is also much more useful than the nebulous challenge of "solving intelligence".
+Similar to what Aubrey de Grey’s list of the [7 causes of death](https://www.longlonglife.org/en/transhumanism-longevity/aging/aubrey-de-grey/transhumanism-aubrey-de-greys-causes-of-aging-with-sens-foundation/) did for longevity studies, or what the [Millennium Prize](https://en.wikipedia.org/wiki/Millennium_Prize_Problems) did for mathematics, maybe we can build a program that motivates young researchers to tackle AGI one jump at a time. A clear roadmap is also much more useful than the nebulous challenge of 'solving intelligence'.
 
 
 ## Design Principles
 The principles I've chosen to create, maintain and order the list are: 
 - **Simple**: the list should not try to be exhaustive, but aim to provide inspirational challenges.
 - **Task-oriented**: the list should focus on specific capabilities and not research or implementation details.
-- **Motivational over well defined**: it's more important that milestones are fun and motivate research, than super clearly defined.
+- **Motivational over well-defined**: it's more important that milestones are fun and motivate research, than super clearly defined.
 - **Increasing complexity**: milestones should be listed in (estimated) ascending order of difficulty and/or task complexity.
 
 ## The Roadmap, v0.1
-Here goes the first version of the roadmap, divided it into groups of progressive complexity. It gets kind of weird and cringe-worthy towards the end, but remember I'm trying to be as "general" as possible. Whatever we value in other humans, AGIs should do too.  
-Please bear in mind that this is just a conversation starter. If you dislike a particular milestone or ordering decision, feel free to [open a pull request](https://github.com/maraoz/maraoz.github.io/edit/master/road-to-agi.html).  
+Here goes the first version of the roadmap, divided it into groups of progressive complexity. It gets kind of weird and cringe-worthy towards the end, but remember I'm trying to be as "general" as possible. Whatever we value in other humans, AGIs should be able to do too.  
+Please bear in mind that this is just a conversation starter. This roadmap is meant to be a living document that will be updated over time as we learn more about AGI. If you dislike a particular milestone or ordering decision, feel free to [open a pull request](https://github.com/maraoz/maraoz.github.io/edit/master/road-to-agi.html).  
 
 [Check out Roadmap v0.1 on its own page.](https://maraoz.com/road-to-agi/)
 
-### Toy level intelligence 
+### Toy-level intelligence 
 ✅ AI can beat a human at tic-tac-toe — 1972 [<a href="https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy">done</a> thanks to Newell and Simon]<br />
 ✅ AI can beat a human at checkers — 1994 [<a href="https://en.wikipedia.org/wiki/Chinook_(computer_program)#Man_vs._Machine_World_Champion">done</a> thanks to Chinook]<br />
 ✅ AI beats humans at chess — 1997 [<a href="https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov">done</a> thanks to IBM]<br />
@@ -56,9 +56,9 @@ Please bear in mind that this is just a conversation starter. If you dislike a p
 ⬜ A robot that can play a physical instrument (eg: piano, guitar) with two humanoid hands.  
 
 ### Artistic intelligence 
-✅ Some AI generated painting or visual artwork wins a fairly big art competition — 2022 [<a href="https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html">done</a> thanks to Jason M. Allen and MidJourney](
+✅ An AI generated painting or visual artwork wins a fairly big art competition — 2022 [<a href="https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html">done</a> thanks to Jason M. Allen and MidJourney](
 https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html)<br />
-✅ Some AI generated painting or visual artwork sells for more than $100k — 2021 [<a href="https://etherscan.io/tx/0x66579f35ed2c335a218604bd1c0a1aaa938024f5a3c6d87884e4c01b3a90a0d4">done</a> thanks to Chromie Squiggle #9 by Snowfro and probably many other procedurally generated NFTs] <br />
+✅ An AI generated painting or visual artwork sells for more than $100k — 2021 [<a href="https://etherscan.io/tx/0x66579f35ed2c335a218604bd1c0a1aaa938024f5a3c6d87884e4c01b3a90a0d4">done</a> thanks to Chromie Squiggle #9 by Snowfro and probably many other procedurally generated NFTs] <br />
 ⬜ Some AI generated music "band" has more than 1 million monthly listeners on Spotify or equivalent platform. <br />
 ⬜ AI or robot that can skillfully jam with another human playing live.  
 ⬜ AI or robot that can skillfully jam with a group of humans playing live.  
