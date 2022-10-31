@@ -3,9 +3,7 @@ layout: post
 title:  "Road to AGI v0.1"
 image: "/img/agi-roadmap/cover.jpg"
 ---
-<img class="cover rounded" src="{{ page.image }}">
-
-[what?](https://maraoz.com/2022/10/15/agi-roadmap/)
+[[what?]](https://maraoz.com/2022/10/15/agi-roadmap/)
 
 This list is collaborative, feel free to [open a pull request](https://github.com/maraoz/maraoz.github.io/edit/master/road-to-agi.html).  
 
