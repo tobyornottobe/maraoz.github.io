@@ -3,7 +3,7 @@ layout: post
 title:  "Road to AGI v0.1"
 image: "/img/agi-roadmap/cover.jpg"
 ---
-[[what?]](https://maraoz.com/2022/10/15/agi-roadmap/)
+The following is a list of challenges that need to be solved to achieve Artificial General Intelligence. [[what?]](https://maraoz.com/2022/10/15/agi-roadmap/)
 
 This list is collaborative, feel free to [open a pull request](https://github.com/maraoz/maraoz.github.io/edit/master/road-to-agi.html).  
 
