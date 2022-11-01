@@ -4,7 +4,7 @@ title:  "Road to AGI v0.1"
 ---
 The following is a list of challenges that need to be solved to achieve Artificial General Intelligence. This roadmap is meant to be a living document that will be updated over time as we learn more about AGI. [[what?]](https://maraoz.com/2022/10/31/agi-roadmap/)
 
-This list is collaborative, feel free to [open a pull request](https://github.com/maraoz/maraoz.github.io/edit/master/road-to-agi.html).  
+This list is collaborative, feel free to [open a pull request](https://github.com/maraoz/maraoz.github.io/edit/master/road-to-agi.md).  
 
 ### Toy-level intelligence 
 ✅ AI can beat a human at tic-tac-toe — 1972 [<a href="https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy">done</a> thanks to Newell and Simon]<br />
