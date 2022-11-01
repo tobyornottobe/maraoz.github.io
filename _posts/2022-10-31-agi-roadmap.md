@@ -2,7 +2,7 @@
 layout: post
 title:  "Road to Artificial General Intelligence"
 image: "/img/agi-roadmap/cover.jpg"
-draft: true
+draft: false
 gpt3: true
 ---
 <figure>
@@ -136,7 +136,7 @@ https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists
 ⬜ AI that can coordinate huge amounts of (maybe all?) humans. (AGI as new world order) 
 
 ## Summary and Final Words 
-I've seen several of these milestones beaten, and hope to see many more in my lifetime. I dream of being alive when we achieve AGI.  
+I've seen several of these milestones beaten, and hope to see many more in my lifetime. I really dream of being alive when we achieve AGI.  
 Have improvement ideas for the roadmap? [Suggest a change on GitHub!](https://github.com/maraoz/maraoz.github.io/edit/master/road-to-agi.md)  
 Liked what you read? Subscribe! 
 {% include substack.html %}
