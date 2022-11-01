@@ -108,3 +108,7 @@ https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists
 ⬜ AI that can create new explanations on how the world works and share it with humans. (scientist mindset)  
 ⬜ AI that can convince other humans or AIs of their new ideas.  
 ⬜ AI that can coordinate huge amounts of (maybe all?) humans. (AGI as new world order) 
+
+
+Have improvement ideas for the roadmap? Solved one of the challenges? [Suggest a change on GitHub!](https://github.com/maraoz/maraoz.github.io/edit/master/road-to-agi.md)  
+
