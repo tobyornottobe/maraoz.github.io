@@ -12,7 +12,7 @@ gpt3: true
 </figure>
 <img class="cover rounded" src="{{ page.image }}">
 
-In the early days of artificial intelligence, the field was defined by a single goal: to build a machine that could reason and think like a human. We call that AGI, or artificial general intelligence, and it's humanity's final tech frontier. In the 60+ years since the field’s inception, we have made tremendous progress. We can now build machines that can beat humans at specific tasks like playing chess or go, and we are starting to see machines that can learn to perform multiple tasks. But we are still far from creating another universal intelligence.
+In the early days of artificial intelligence, the field was defined by a single goal: to build a machine that could reason and think like a human. We call that AGI, or artificial general intelligence, and it's humanity's final tech frontier. In the 70+ years since the field’s inception, we have made tremendous progress. We can now build machines that can beat humans at specific tasks like playing chess or go, and we are starting to see machines that can learn to perform multiple tasks. But we are still far from creating another universal intelligence.
 
 One of the challenges in the field is that the definition of AGI keeps changing as our understanding of intelligence evolves. For example, early AI researchers believed that building a machine that could beat humans at chess would require AGI. But in 1997, [a computer called Deep Blue beat the world chess champion](https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov), and we now know that playing chess well does not require AGI; it is a specific task that can be solved with task-specific algorithms.
 
