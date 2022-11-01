@@ -14,7 +14,7 @@ gpt3: true
 
 In the early days of artificial intelligence, the field was defined by a single goal: to build a machine that could reason and think like a human. We call that AGI, or artificial general intelligence, and it's humanity's final tech frontier. In the 60+ years since the field’s inception, we have made tremendous progress. We can now build machines that can beat humans at specific tasks like playing chess or go, and we are starting to see machines that can learn to perform multiple tasks. But we are still far from creating another universal intelligence.
 
-I believe it could help to provide a clear path of big milestones.  
+I believe it could help to provide a clear path of big challenges we need to solve to achieve AGI.  
 
 Similar to what Aubrey de Grey’s list of the [7 causes of death](https://www.longlonglife.org/en/transhumanism-longevity/aging/aubrey-de-grey/transhumanism-aubrey-de-greys-causes-of-aging-with-sens-foundation/) did for longevity studies, or what the [Millennium Prize](https://en.wikipedia.org/wiki/Millennium_Prize_Problems) did for mathematics, maybe we can build a program that motivates young researchers to tackle AGI one jump at a time. A clear roadmap is also much more useful than the nebulous challenge of 'solving intelligence'.
 
