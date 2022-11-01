@@ -7,7 +7,7 @@ gpt3: true
 ---
 <figure>
   <figcaption style="text-align: left">
-  Summary: An attempt at defining a roadmap for artificial general intelligence, broken down into milestones of progressive difficulty.
+  Summary: An attempt at defining a roadmap for AGI, broken down into milestones of progressive difficulty.
   </figcaption>
 </figure>
 <img class="cover rounded" src="{{ page.image }}">
