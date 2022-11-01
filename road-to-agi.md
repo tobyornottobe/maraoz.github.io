@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Road to AGI v0.1"
-image: "/img/agi-roadmap/cover.jpg"
 ---
 The following is a list of challenges that need to be solved to achieve Artificial General Intelligence. This roadmap is meant to be a living document that will be updated over time as we learn more about AGI. [[what?]](https://maraoz.com/2022/10/15/agi-roadmap/)
 
