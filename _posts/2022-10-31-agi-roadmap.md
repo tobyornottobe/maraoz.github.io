@@ -142,7 +142,7 @@ Liked what you read? Subscribe!
 {% include substack.html %}
 
 ### Acknowledgements
-Thanks to [@deadpine](https://twitter.com/deadpine_xyz) for providing some crazy ideas of AI milestones.
+Thanks to [@deadpine](https://twitter.com/deadpine_xyz) for providing some crazy ideas of AI milestones.  
 Cover photo by <a href="https://www.midjourney.com/">MidJourney</a>
   
 ### Comments and Discussion
