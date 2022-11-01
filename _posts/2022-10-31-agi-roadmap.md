@@ -146,6 +146,6 @@ Thanks to [@deadpine](https://twitter.com/deadpine_xyz) for providing some crazy
 Cover photo by <a href="https://www.midjourney.com/">MidJourney</a>
   
 ### Comments and Discussion
-[Discuss on HN (soon)]() — [Discuss on Reddit (soon)]() — [Email a private comment](mailto:agi-roadmap@maraoz.com)
+[Discuss on HN](https://news.ycombinator.com/item?id=33416091) — [Discuss on Reddit](https://www.reddit.com/r/singularity/comments/yivvip/road_to_artificial_general_intelligence/) — [Email a private comment](mailto:agi-roadmap@maraoz.com)
 
 
