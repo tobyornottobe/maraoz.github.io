@@ -1,2 +1,2 @@
-# maraoz.github.io
+# maraoz.com
 My personal site
