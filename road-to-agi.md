@@ -110,5 +110,6 @@ https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists
 ⬜ AI that can coordinate huge amounts of (maybe all?) humans. (AGI as new world order) 
 
 
-Have improvement ideas for the roadmap? Solved one of the challenges? [Suggest a change on GitHub!](https://github.com/maraoz/maraoz.github.io/edit/master/road-to-agi.md)  
+Have improvement ideas for the roadmap? Solved one of the challenges?  
+[Suggest a change on GitHub!](https://github.com/maraoz/maraoz.github.io/edit/master/road-to-agi.md)  
 
