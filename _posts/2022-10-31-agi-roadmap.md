@@ -30,7 +30,7 @@ The principles I've chosen to create, maintain and organize the list are:
 Here goes the first version of the roadmap, divided it into thematic groups of progressive complexity. It gets kind of weird and cringe-worthy towards the end, but remember I'm trying to be as "general" as possible. Whatever we value in other humans, AGIs should be able to do too.  
 Please bear in mind that this is just a conversation starter. This roadmap is meant to be a living document that will be updated over time as we learn more about AGI. If you dislike a particular milestone or ordering decision, feel free to [open a pull request](https://github.com/maraoz/maraoz.github.io/edit/master/road-to-agi.html).  
 
-[Check out Roadmap v0.1 on its own page.](https://maraoz.com/road-to-agi/)
+[Check out AGI Roadmap v0.1 on its own page.](https://maraoz.com/road-to-agi/)
 
 ### Toy-level intelligence 
 ✅ AI can beat a human at tic-tac-toe — 1972 [<a href="https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy">done</a> thanks to Newell and Simon]<br />
