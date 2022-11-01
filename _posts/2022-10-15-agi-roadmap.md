@@ -38,7 +38,7 @@ Please bear in mind that this is just a conversation starter. This roadmap is me
 ✅ AI beats humans at chess — 1997 [<a href="https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov">done</a> thanks to IBM]<br />
 ✅ AI wins Jeopardy game — 2011 [<a href="https://en.wikipedia.org/wiki/IBM_Watson#Jeopardy!">done</a> thanks to IBM]<br />
 ✅ AI beats humans at go — 2016 [<a href="https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol">done</a> thanks to DeepMind]<br />
-✅ AI beats humans at [StarCraft](https://starcraft2.com/en-us/) — 2019 [<a href="https://en.wikipedia.org/wiki/AlphaStar_(software)">done</a> thanks to DeepMind]<br />
+✅ AI beats humans at StarCraft — 2019 [<a href="https://en.wikipedia.org/wiki/AlphaStar_(software)">done</a> thanks to DeepMind]<br />
 ✅ AI beats humans at poker — 2019 [<a href="https://en.wikipedia.org/wiki/Pluribus_(poker_bot)">done</a> thanks to Facebook]<br />
 
 ### Athlete level intelligence
