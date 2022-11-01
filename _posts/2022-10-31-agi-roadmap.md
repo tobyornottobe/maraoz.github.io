@@ -20,7 +20,7 @@ Similar to what Aubrey de Grey's list of the [7 causes of death](https://www.lon
 
 
 ## Design Principles
-The principles I've chosen to create, maintain and order the list are: 
+The principles I've chosen to create, maintain and organize the list are: 
 - **Simple**: the list should not try to be exhaustive, but aim to provide inspirational challenges.
 - **Task-oriented**: the list should focus on specific capabilities and not research or implementation details.
 - **Motivational over well-defined**: it's more important that milestones are fun and motivate research, than super clearly defined.
