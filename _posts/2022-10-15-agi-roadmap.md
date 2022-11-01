@@ -137,7 +137,7 @@ https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists
 
 ## Summary and Final Words 
 
-Have improvement ideas? [Suggest a change on GitHub!](https://github.com/maraoz/maraoz.github.io/edit/master/road-to-agi.md)
+Have improvement ideas? [Suggest a change on GitHub!](https://github.com/maraoz/maraoz.github.io/edit/master/road-to-agi.md)  
 Liked what you read? Subscribe! 
 {% include substack.html %}
 
