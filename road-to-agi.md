@@ -19,7 +19,7 @@ This list is collaborative, feel free to [open a pull request](https://github.co
 
 ### Physical intelligence
 ⬜ A physical robot that can survive for a week in an urban environment.  
-⬜ A robot than can cut a person's hair.  
+✅ A robot that can cut a person's hair - 2020 [<a href="https://www.youtube.com/watch?v=WQ8Xgp8ALFo">done</a> thanks to Stuff Made Here]<br />
 ⬜ A robot that can put on clothes that fit them.  
 ⬜ A robot that can paint a painting with a brush, copying a real thing.  
 ⬜ A robot that can brew a great [specialty coffee](https://en.wikipedia.org/wiki/Specialty_coffee).  
