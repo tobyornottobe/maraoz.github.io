@@ -34,6 +34,7 @@ To close this brief post, I'll share a bold prediction (and hope) on this topic:
 - [Instagram Is Dead (It Just Doesn’t Know It Yet) by Jared A. Brock ](https://medium.com/better-marketing/instagram-is-dead-it-just-doesnt-know-it-yet-b030445371f4)
 - [Lex Fridman interviews Cal Newport](https://www.youtube.com/watch?v=y3Umo_jd5AA).
 - [Joe Rogan interviews Adam Alter](https://open.spotify.com/episode/3olbOHISF2QiU27IwGf2xb).
+- [Social media damages your brain and sabotages your potential (Jonathan Blow)](https://www.youtube.com/watch?v=bP5uH7TWiUs)
 
 
 ### Acknowledgements
