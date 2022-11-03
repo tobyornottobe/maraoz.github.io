@@ -85,6 +85,7 @@ https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists
 ⬜ ... that has USD $1B+ market capitalization (at 2022 adjusted value)...  
 ⬜ AI that can discuss strategy with a human and add value.  
 ⬜ AI that can discuss strategy with a team of humans and add value.  
+⬜ AI can translate animal language into human language and vice versa
 
 
 ### Intimate intelligence
